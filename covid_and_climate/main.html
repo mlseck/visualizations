@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script src="https://d3js.org/topojson.v2.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.15/lodash.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/tinycolor/1.4.1/tinycolor.js"></script>
+  <title>An exploration of climate and COVID trends</title>
+  <style>
+    body { 
+      margin:20;
+      position:fixed;
+      top:0;
+      right:0;
+      bottom:0;
+      left:0; 
+    }
+    svg { 
+      width:100%; 
+      height: 100% 
+    }
+    .country {
+      fill: #aab1bb;
+      stroke-width: 1;
+      stroke: #ffffff;
+    }
+    .country:hover {
+      fill: #666;
+    }
+
+    div.tooltip {
+      position: absolute;
+      text-align: center;
+      width: 60px;
+      min-height: 28px;
+      padding: 8px 12px;
+      font: 12px sans-serif;
+      background: lightgray;
+      border: 0px;
+      border-radius: 8px;
+      pointer-events: none;
+    }
+
+  </style>
+</head>
+
+<body>
+  <h2>COVID & CLIMATE, Q1 2020</h2>
+  <div class="home"></div>
+  <script>
+
+    Number.prototype.round = function (decimals) {
+        return Number((Math.round(this + "e" + decimals) + "e-" + decimals));
+    };
+
+    function selectDivisionNumber(array) {
+        let arraySize = array.length,
+            halfArray = Math.round(arraySize / 2);
+        let newArr = [];
+        //Take first and last item and push them to the array
+        newArr.push(array[0])
+        newArr.push(array[arraySize - 1]);
+        //Don't mind the order, they will be sorted later.
+
+        //Divide the array in two
+        let firstHalf = array.slice(0, halfArray);
+        let firstHalfSelection = firstHalf[Math.round(firstHalf.length / 2)];
+        newArr.push(firstHalfSelection);
+
+        let secondHalf = array.slice(halfArray, arraySize);
+        let secondHalfSelection = secondHalf[Math.round(secondHalf.length / 2)];
+        newArr.push(secondHalfSelection);
+        return newArr;
+    }
+
+  </script>  
+
+  <script>
+    var width = 960;
+    var height = 500;
+    
+    var svg = d3.select( "body" )
+          .append( "svg" )
+          .attr( "width", width )
+          .attr( "height", height );
+      
+    var projection = d3.geoEquirectangular()
+        .scale(170)
+        .translate([width / 2, height / 2]);
+
+    var geoPath = d3.geoPath()
+        .projection(projection);
+    
+
+    // Load in climate data
+    d3.json("https://raw.githubusercontent.com/mlseck/datasets/main/weather.json", function(error, data){
+
+      const tooltip = d3.select(".home").append("div")
+            .attr("class", "tooltip")
+            .style("opacity", 0);
+
+      let sampleMap = data.map(item => {
+            return Number(item.avg_temp);
+        });
+      let domain = selectDivisionNumber(sampleMap).sort();
+
+      var colorScale = d3.scaleLinear()
+                      .domain(domain)
+                      .range(["#67a8ce", "#bfe2f9", "#fefefe", "#fedec9", "#ef8d69"]);
+
+      d3.queue()
+        .defer(d3.json, "https://gist.githubusercontent.com/bquast/944781aa6dcc257ebf9aeee3c098b637/raw/871039f36e7b277a20d34619d72ec6b62957fe28/world-topo.json")
+        .await(ready);
+      
+      function ready(error, countries){
+          countries = topojson.feature(countries, countries.objects.countries)
+          monthly_weather = data.filter(function(d){ return d.month == "01" })
+          _(countries.features)
+                .keyBy('properties.id')
+                .merge(_.keyBy(monthly_weather, 'alpha-3'))
+                .values()
+                .value();
+
+           svg.append("g")
+              .selectAll("path")
+              .data(countries.features)
+              .enter()
+              .append("path")
+              .attr( "d", geoPath )
+              .style('transition', "all 0.2s ease-in-out")
+              .attr("class","country")
+              .style('fill', function(d,i) {
+                //console.log(d.properties.admin)
+                var tempRate = d.avg_temp;
+                return tempRate ? colorScale(tempRate) : "#ccc";
+              })
+              .on('mousemove', function (d) {
+                    tooltip.transition()
+                        .duration(200)
+                        .style("opacity", .9);
+
+                    tooltip.style("left", (d3.event.pageX) + "px")
+                        .style("top", (d3.event.pageY) + "px")
+                        .text(()=> `${d.properties.admin}: ${(d.avg_temp).round(2).toFixed(1)}°F`)
+                })
+              .on("mouseover", function (d) {
+                    d3.select(this)
+                        .style("fill", tinycolor(colorScale(d.avg_temp)).darken(15).toString())
+                        .style("cursor", "pointer");
+
+                })
+                .on("mouseout", function (d, i) {
+                    d3.select(this).style("fill", function () {
+                        var tempRate = d.avg_temp;
+                        return tempRate ? colorScale(tempRate) : "#ccc";
+                    });
+
+                    tooltip.transition()
+                        .duration(500)
+                        .style("opacity", 0);
+                });
+
+            //create a new SVG in the body
+            const legend = d3.select(".mls").append('svg')
+            //add it with the '.legend' class
+                .attr('class', 'legend')
+                //it should be 14px wide
+                .attr('width', 148)
+                //and 148px high
+                .attr('height', 148)
+                //then either select all the 'g's inside the svg
+                //or create placeholders
+                .selectAll('g')
+                //Fill the data into our placeholders in reverse order
+                //This arranges our legend in descending order.
+                //The 'data' here is the items we entered in the 'domain',
+                //in this case [min, max]
+                .data(colorScale.domain().slice().reverse())
+                //Every node in teh data should have a 'g' appended
+                .enter().append('g')
+                //the 'g' should have this attribute
+                .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+            //Inside every 'legend', insert a rect
+            legend.append("rect")
+                //that's 18px wide
+                .attr("width", 18)
+                //and 18px high
+                .attr("height", 18)
+                //then fill it will the color assigned by the scale
+                .style("fill", colorScale);
+
+            legend.append("text")
+                .attr("x", 24)
+                .attr("y", 9)
+                .attr("dy", ".35em")
+                .text(function(d) { return `${(d*100).round(2).toFixed(1)}%`}); 
+            console.log(legend) 
+
+          
+      }
+
+    })
+    
+  </script>
+</body>
