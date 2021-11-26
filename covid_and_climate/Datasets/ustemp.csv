@@ -1,0 +1,2065 @@
+Location ID,Location,Temp,Rank,Anomaly (1901-2000 base period),1901-2000 Mean,Month
+101,Alabama CD 1. Northern Valley,7.555555556,112,5.5,40.1,1
+102,Alabama CD 2. Appalachian Mountain,7.888888889,111,5.1,41.1,1
+103,Alabama CD 3. Upper Plains,9.111111111,111,5,43.4,1
+104,Alabama CD 4. Eastern Valley,8.722222222,111,5,42.7,1
+105,Alabama CD 5. Piedmont Plateau,9.055555556,109,4.3,44,1
+106,Alabama CD 6. Prairie,10.27777778,107,4.2,46.3,1
+107,Alabama CD 7. Coastal Plain,11.5,104,4.3,48.4,1
+108,Alabama CD 8. Gulf,12.61111111,105,3.9,50.8,1
+201,Arizona CD 1. Northwest,7.611111111,105,3.4,42.3,1
+202,Arizona CD 2. Northeast,1.277777778,102,3.4,30.9,1
+203,Arizona CD 3. North Central,6.833333333,107,3.4,40.9,1
+204,Arizona CD 4. East Central,7.111111111,112,3.9,40.9,1
+205,Arizona CD 5. Southwest,12.61111111,101,2.6,52.1,1
+206,Arizona CD 6. South Central,11.5,96,2.4,50.3,1
+207,Arizona CD 7. Southeast,8.777777778,100,2.5,45.3,1
+301,Arkansas CD 1. Northwest,4.277777778,109,4.7,35,1
+302,Arkansas CD 2. North Central,4.611111111,108,4.7,35.6,1
+303,Arkansas CD 3. Northeast,5.777777778,109,5.3,37.1,1
+304,Arkansas CD 4. West Central,5.944444444,109,4.5,38.2,1
+305,Arkansas CD 5. Central,6.611111111,105,3.7,40.2,1
+306,Arkansas CD 6. East Central,7.444444444,113,5.3,40.1,1
+307,Arkansas CD 7. Southwest,7.833333333,111,4.3,41.8,1
+308,Arkansas CD 8. South Central,8.222222222,107,4,42.8,1
+309,Arkansas CD 9. Southeast,8.5,110,4.7,42.6,1
+401,California CD 1. North Coast Drainage,5.277777778,99,2.5,39,1
+402,California CD 2. Sacramento Drainage,5.166666667,96,2.7,38.6,1
+403,California CD 3. Northeast Interior Basins,0.833333333,117,5.3,28.2,1
+404,California CD 4. Central Coast Drainage,9.333333333,95,2.1,46.7,1
+405,California CD 5. San Joaquin Drainage,6.666666667,99,2.5,41.5,1
+406,California CD 6. South Coast Drainage,11.16666667,110,3.4,48.7,1
+407,California CD 7. Southeast Desert Basins,9.722222222,113,3.6,45.9,1
+501,Colorado CD 1. Arkansas Drainage,0.333333333,108,4.3,28.3,1
+502,Colorado CD 2. Colorado Drainage,-5.055555556,87,2.3,20.6,1
+503,Colorado CD 3. Kansas Drainage,0.833333333,122,6.9,26.6,1
+504,Colorado CD 4. Platte Drainage,-1.444444444,114,5.4,24,1
+505,Colorado CD 5. Rio Grande Drainage,-6.888888889,72,1.3,18.3,1
+601,Connecticut CD 1. Northwest,-0.944444444,119,7.6,22.7,1
+602,Connecticut CD 2. Central,0.722222222,120,7.9,25.4,1
+603,Connecticut CD 3. Coastal,2.055555556,120,7.7,28,1
+701,Delaware CD 1. Northern,3.388888889,116,6.7,31.4,1
+702,Delaware CD 2. Southern,4.944444444,118,6.9,34,1
+801,Florida CD 1. Northwest,13.61111111,110,5,51.5,1
+802,Florida CD 2. North,14.61111111,109,4.3,54,1
+803,Florida CD 3. North Central,16.66666667,107,3.8,58.2,1
+804,Florida CD 4. South Central,17.88888889,107,3.3,60.9,1
+805,Florida CD 5. Everglades and Southwest Coast,19.66666667,108,3.2,64.2,1
+806,Florida CD 6. Lower East Coast,20.66666667,110,3.7,65.5,1
+807,Florida CD 7. Keys,21.94444444,112,3.6,67.9,1
+901,Georgia CD 1. Northwest,7.722222222,114,5.6,40.3,1
+902,Georgia CD 2. North Central,7.5,113,5.2,40.3,1
+903,Georgia CD 3. Northeast,8.333333333,114,5.2,41.8,1
+904,Georgia CD 4. West Central,9.666666667,113,5.3,44.1,1
+905,Georgia CD 5. Central,10.88888889,117,5.9,45.7,1
+906,Georgia CD 6. East Central,11.66666667,117,6.3,46.7,1
+907,Georgia CD 7. Southwest,12.11111111,108,4.6,49.2,1
+908,Georgia CD 8. South Central,12.27777778,108,4.7,49.4,1
+909,Georgia CD 9. Southeast,13.16666667,113,5,50.7,1
+1001,Idaho CD 1. Panhandle,-1.055555556,117,6.9,23.2,1
+1002,Idaho CD 2. North Central Prairies,-0.166666667,111,5.4,26.3,1
+1003,Idaho CD 3. North Central Canyons,0.888888889,112,5.5,28.1,1
+1004,Idaho CD 4. Central Mountains,-3.277777778,112,5.1,21,1
+1005,Idaho CD 5. Southwestern Valleys,1.388888889,119,6.7,27.8,1
+1006,Idaho CD 6. Southwestern Highlands,-0.166666667,110,5.4,26.3,1
+1007,Idaho CD 7. Central Plains,-1,118,6.8,23.4,1
+1008,Idaho CD 8. Northeastern Valleys,-6.222222222,93,3.7,17.1,1
+1009,Idaho CD 9. Upper Snake River Plains,-5,100,4.6,18.4,1
+1010,Idaho CD 10. Eastern Highlands,-3.833333333,109,5.1,20,1
+1101,Illinois CD 1. Northwest,-2.666666667,115,7.3,19.9,1
+1102,Illinois CD 2. Northeast,-1.777777778,119,7.5,21.3,1
+1103,Illinois CD 3. West,-1.5,109,5.5,23.8,1
+1104,Illinois CD 4. Central,-0.777777778,114,6.9,23.7,1
+1105,Illinois CD 5. East,-0.277777778,121,7.6,23.9,1
+1106,Illinois CD 6. West Southwest,0.333333333,110,5.5,27.1,1
+1107,Illinois CD 7. East Southeast,1.277777778,116,6.6,27.7,1
+1108,Illinois CD 8. Southwest,2.611111111,111,5.6,31.1,1
+1109,Illinois CD 9. Southeast,3.111111111,116,6.2,31.4,1
+1201,Indiana CD 1. Northwest,-0.277777778,120,8.2,23.3,1
+1202,Indiana CD 2. North Central,0,120,8.4,23.6,1
+1203,Indiana CD 3. Northeast,-0.166666667,119,8.1,23.6,1
+1204,Indiana CD 4. West Central,0.888888889,119,7.5,26.1,1
+1205,Indiana CD 5. Central,1.333333333,121,8,26.4,1
+1206,Indiana CD 6. East Central,1.222222222,121,8.4,25.8,1
+1207,Indiana CD 7. Southwest,2.833333333,119,6.9,30.2,1
+1208,Indiana CD 8. South Central,2.777777778,117,7.1,29.9,1
+1209,Indiana CD 9. Southeast,2.944444444,121,7.8,29.5,1
+1301,Iowa CD 1. Northwest,-7,95,4.8,14.6,1
+1302,Iowa CD 2. North Central,-6.666666667,102,5.8,14.2,1
+1303,Iowa CD 3. Northeast,-5.388888889,112,7.2,15.1,1
+1304,Iowa CD 4. West Central,-5.111111111,99,5.1,17.7,1
+1305,Iowa CD 5. Central,-5,101,5.2,17.8,1
+1306,Iowa CD 6. East Central,-3.888888889,110,6.1,18.9,1
+1307,Iowa CD 7. Southwest,-3.555555556,97,4.8,20.8,1
+1308,Iowa CD 8. South Central,-3.666666667,98,4.3,21.1,1
+1309,Iowa CD 9. Southeast,-3.166666667,104,4.7,21.6,1
+1401,Kansas CD 1. Northwest,0.166666667,108,5.5,26.8,1
+1402,Kansas CD 2. North Central,-0.777777778,102,4.8,25.8,1
+1403,Kansas CD 3. Northeast,-0.888888889,104,4.8,25.6,1
+1404,Kansas CD 4. West Central,1.222222222,116,6,28.2,1
+1405,Kansas CD 5. Central,0.611111111,106,5,28.1,1
+1406,Kansas CD 6. East Central,0.777777778,108,5.2,28.2,1
+1407,Kansas CD 7. Southwest,2.222222222,115,5.5,30.5,1
+1408,Kansas CD 8. South Central,2.166666667,112,5.4,30.5,1
+1409,Kansas CD 9. Southeast,2.666666667,114,5.6,31.2,1
+1501,Kentucky CD 1. Western,4.555555556,111,5.8,34.4,1
+1502,Kentucky CD 2. Central,4.666666667,113,6.5,33.9,1
+1503,Kentucky CD 3. Blue Grass,4,116,7.4,31.8,1
+1504,Kentucky CD 4. Eastern,4.666666667,114,6.4,34,1
+1601,Louisiana CD 1. Northwest,10.11111111,108,4.5,45.7,1
+1602,Louisiana CD 2. North Central,10,107,4.7,45.3,1
+1603,Louisiana CD 3. Northeast,10,102,4.1,45.9,1
+1604,Louisiana CD 4. West Central,11.05555556,103,4,47.9,1
+1605,Louisiana CD 5. Central,11.44444444,100,3.6,49,1
+1606,Louisiana CD 6. East Central,12.72222222,105,4.5,50.4,1
+1607,Louisiana CD 7. Southwest,13.38888889,107,4.5,51.6,1
+1608,Louisiana CD 8. South Central,13.77777778,108,4.6,52.2,1
+1609,Louisiana CD 9. Southeast,14.27777778,104,4.2,53.5,1
+1701,Maine CD 1. North,-8,118,7.7,9.9,1
+1702,Maine CD 2. South Interior,-4.611111111,117,7.7,16,1
+1703,Maine CD 3. Coastal,-2.888888889,118,6.9,19.9,1
+1801,Maryland CD 1. Southeastern Shore,6,119,7,35.8,1
+1802,Maryland CD 2. Central Eastern Shore,5,118,6.7,34.3,1
+1803,Maryland CD 3. Lower Southern,5.055555556,118,6.3,34.8,1
+1804,Maryland CD 4. Upper Southern,4.722222222,118,6.6,33.9,1
+1805,Maryland CD 5. Northeastern Shore,4,116,6.1,33.1,1
+1806,Maryland CD 6. North Central,3.222222222,117,6.8,31,1
+1807,Maryland CD 7. Appalachian Mountains,2.333333333,117,6.7,29.5,1
+1808,Maryland CD 8. Allegheny Plateau,0.555555556,117,7.1,25.9,1
+1901,Massachusetts CD 1. West,-1.944444444,119,7.9,20.6,1
+1902,Massachusetts CD 2. Central,-0.166666667,122,8.4,23.3,1
+1903,Massachusetts CD 3. Coastal,1.555555556,118,6.9,27.9,1
+2001,Michigan CD 1. West Upper,-6.777777778,122,8.5,11.3,1
+2002,Michigan CD 2. East Upper,-4.666666667,123,8.6,15,1
+2003,Michigan CD 3. Northwest Lower,-2.722222222,124,8.9,18.2,1
+2004,Michigan CD 4. Northeast Lower,-3.111111111,124,9.3,17.1,1
+2005,Michigan CD 5. West Central Lower,-1.944444444,122,7.8,20.7,1
+2006,Michigan CD 6. Central Lower,-2,122,9,19.4,1
+2007,Michigan CD 7. East Central Lower,-1.111111111,123,9.5,20.5,1
+2008,Michigan CD 8. Southwest Lower,-0.555555556,122,8.1,22.9,1
+2009,Michigan CD 9. South Central Lower,-1,122,8.5,21.7,1
+2010,Michigan CD 10. Southeast Lower,-0.444444444,122,9.1,22.1,1
+2101,Minnesota CD 1. Northwest,-12.44444444,102,7.6,2,1
+2102,Minnesota CD 2. North Central,-11.61111111,109,8.6,2.5,1
+2103,Minnesota CD 3. Northeast,-11.05555556,115,8.6,3.5,1
+2104,Minnesota CD 4. West Central,-10,96,6.4,7.6,1
+2105,Minnesota CD 5. Central,-9,103,7.2,8.6,1
+2106,Minnesota CD 6. East Central,-9,115,8.4,7.4,1
+2107,Minnesota CD 7. Southwest,-8.444444444,93,5.1,11.7,1
+2108,Minnesota CD 8. South Central,-7.5,103,6.4,12.1,1
+2109,Minnesota CD 9. Southeast,-6.611111111,113,7.9,12.2,1
+2201,Mississippi CD 1. Upper Delta,8.5,114,5.4,41.9,1
+2202,Mississippi CD 2. North Central,8.111111111,108,5.2,41.4,1
+2203,Mississippi CD 3. Northeast,8.166666667,115,6,40.7,1
+2204,Mississippi CD 4. Lower Delta,9.666666667,109,5,44.4,1
+2205,Mississippi CD 5. Central,9.666666667,108,4.8,44.6,1
+2206,Mississippi CD 6. East Central,9.444444444,112,5.2,43.8,1
+2207,Mississippi CD 7. Southwest,11.33333333,109,4.8,47.6,1
+2208,Mississippi CD 8. South Central,11.33333333,105,4.4,48,1
+2209,Mississippi CD 9. Southeast,10.94444444,108,4.4,47.3,1
+2210,Mississippi CD 10. Coastal,12.33333333,105,4,50.2,1
+2301,Missouri CD 1. Northwest Prairie,-1.277777778,103,4.7,25,1
+2302,Missouri CD 2. Northeast Prairie,0,110,5.1,26.9,1
+2303,Missouri CD 3. West Central Plains,1.722222222,112,5.3,29.8,1
+2304,Missouri CD 4. West Ozarks,3.166666667,112,5.2,32.5,1
+2305,Missouri CD 5. East Ozarks,2.888888889,110,5.3,31.9,1
+2306,Missouri CD 6. Bootheel,4.833333333,110,5.6,35.1,1
+2401,Montana CD 1. Western,-2.555555556,117,7.5,19.9,1
+2402,Montana CD 2. Southwestern,-4.388888889,112,6.2,17.9,1
+2403,Montana CD 3. North Central,-6.444444444,84,5.7,14.7,1
+2404,Montana CD 4. Central,-3.388888889,95,6.5,19.4,1
+2405,Montana CD 5. South Central,-2.666666667,113,7.3,19.9,1
+2406,Montana CD 6. Northeastern,-8.277777778,92,6.8,10.3,1
+2407,Montana CD 7. Southeastern,-4.833333333,100,7.2,16.1,1
+2501,Nebraska CD 1. Panhandle,-1.111111111,117,6.7,23.3,1
+2502,Nebraska CD 2. North Central,-3.388888889,98,5,20.9,1
+2503,Nebraska CD 3. Northeast,-5.111111111,88,4.1,18.7,1
+2505,Nebraska CD 5. Central,-3.055555556,93,4.5,22,1
+2506,Nebraska CD 6. East Central,-3.722222222,94,4,21.3,1
+2507,Nebraska CD 7. Southwest,-0.555555556,115,6.2,24.8,1
+2508,Nebraska CD 8. South Central,-1.944444444,93,4.5,24,1
+2509,Nebraska CD 9. Southeast,-2.666666667,96,4,23.2,1
+2601,Nevada CD 1. Northwestern,1.944444444,116,5.9,29.6,1
+2602,Nevada CD 2. Northeastern,-0.666666667,114,5.4,25.4,1
+2603,Nevada CD 3. South Central,2.444444444,117,5.4,31,1
+2604,Nevada CD 4. Extreme Southern,8.166666667,101,3,43.7,1
+2701,New Hampshire CD 1. North,-5.777777778,119,8.4,13.2,1
+2702,New Hampshire CD 2. South,-2.888888889,119,7.7,19.1,1
+2801,New Jersey CD 1. Northern,1.5,120,8,26.7,1
+2802,New Jersey CD 2. Southern,3.722222222,119,7.4,31.3,1
+2803,New Jersey CD 3. Coastal,4.166666667,119,7.3,32.2,1
+2901,New Mexico CD 1. Northwestern Plateau,-0.888888889,92,3,27.4,1
+2902,New Mexico CD 2. Northern Mountains,-1.388888889,92,2.7,26.8,1
+2903,New Mexico CD 3. Northeastern Plains,3.555555556,104,3.8,34.6,1
+2904,New Mexico CD 4. Southwestern Mountains,1.055555556,100,3.1,30.8,1
+2905,New Mexico CD 5. Central Valley,3.777777778,101,2.8,36,1
+2906,New Mexico CD 6. Central Highlands,2.222222222,107,3.7,32.3,1
+2907,New Mexico CD 7. Southeastern Plains,6.388888889,113,4.8,38.7,1
+2908,New Mexico CD 8. Southern Desert,6.222222222,103,2.8,40.4,1
+3001,New York CD 1. Western Plateau,-1.722222222,117,7.3,21.6,1
+3002,New York CD 2. Eastern Plateau,-2.222222222,117,7.2,20.8,1
+3003,New York CD 3. Northern Plateau,-5.222222222,117,8.6,14,1
+3004,New York CD 4. Coastal,3.055555556,119,7.5,30,1
+3005,New York CD 5. Hudson Valley,-0.555555556,119,8.3,22.7,1
+3006,New York CD 6. Mohawk Valley,-3,117,7.6,19,1
+3007,New York CD 7. Champlain Valley,-4.666666667,117,8.1,15.5,1
+3008,New York CD 8. St. Lawrence Valley,-4.666666667,119,9.5,14.1,1
+3009,New York CD 9. Great Lakes,-1.444444444,120,7.9,21.5,1
+3010,New York CD 10. Central Lakes,-1.388888889,117,7.5,22,1
+3101,North Carolina CD 1. Southern Mountains,4.611111111,108,4.5,35.8,1
+3102,North Carolina CD 2. Northern Mountains,4.777777778,113,5.7,34.9,1
+3103,North Carolina CD 3. Northern Piedmont,6.666666667,116,5.8,38.2,1
+3104,North Carolina CD 4. Central Piedmont,7.333333333,116,5.9,39.3,1
+3105,North Carolina CD 5. Southern Piedmont,8.277777778,116,6,40.9,1
+3106,North Carolina CD 6. Southern Coastal Plain,10,119,6.3,43.7,1
+3107,North Carolina CD 7. Central Coastal Plain,9.777777778,120,6.6,43,1
+3108,North Carolina CD 8. Northern Coastal Plain,8.666666667,120,6.9,40.7,1
+3201,North Dakota CD 1. Northwest,-11,95,6.6,5.6,1
+3202,North Dakota CD 2. North Central,-11.94444444,102,7.3,3.2,1
+3203,North Dakota CD 3. Northeast,-12.72222222,100,7.4,1.7,1
+3204,North Dakota CD 4. West Central,-9.388888889,94,6.5,8.6,1
+3205,North Dakota CD 5. Central,-11.33333333,98,6.4,5.2,1
+3206,North Dakota CD 6. East Central,-11.83333333,94,6.1,4.6,1
+3207,North Dakota CD 7. Southwest,-7.388888889,96,6.7,12,1
+3208,North Dakota CD 8. South Central,-9.666666667,92,5.8,8.8,1
+3209,North Dakota CD 9. Southeast,-10.83333333,90,5.2,7.3,1
+3301,Ohio CD 1. Northwest,0.444444444,118,8.1,24.7,1
+3302,Ohio CD 2. North Central,1.055555556,120,8.4,25.5,1
+3303,Ohio CD 3. Northeast,1,121,9,24.8,1
+3304,Ohio CD 4. West Central,1.111111111,120,8.2,25.8,1
+3305,Ohio CD 5. Central,1.722222222,121,8.1,27,1
+3306,Ohio CD 6. Central Hills,1.277777778,121,8.8,25.5,1
+3307,Ohio CD 7. Northeast Hills,1.333333333,118,8.2,26.2,1
+3308,Ohio CD 8. Southwest,2.444444444,120,7.9,28.5,1
+3309,Ohio CD 9. South Central,3.166666667,117,7.2,30.5,1
+3310,Ohio CD 10. Southeast,2.333333333,117,7.6,28.6,1
+3401,Oklahoma CD 1. Panhandle,3.333333333,112,4.9,33.1,1
+3402,Oklahoma CD 2. North Central,4.166666667,115,6.1,33.4,1
+3403,Oklahoma CD 3. Northeast,4.722222222,117,5.7,34.8,1
+3404,Oklahoma CD 4. West Central,5.333333333,118,6.4,35.2,1
+3405,Oklahoma CD 5. Central,6,118,6.2,36.6,1
+3406,Oklahoma CD 6. East Central,6.166666667,115,5,38.1,1
+3407,Oklahoma CD 7. Southwest,6.777777778,120,6.3,37.9,1
+3408,Oklahoma CD 8. South Central,7.444444444,118,5.5,39.9,1
+3409,Oklahoma CD 9. Southeast,7.333333333,117,5.3,39.9,1
+3501,Oregon CD 1. Coastal Area,6.277777778,104,3.2,40.1,1
+3502,Oregon CD 2. Willamette Valley,5.888888889,118,4.7,37.9,1
+3503,Oregon CD 3. Southwestern Valleys,4,99,2.8,36.4,1
+3504,Oregon CD 4. Northern Cascades,1.777777778,102,3.5,31.7,1
+3505,Oregon CD 5. High Plateau,-0.833333333,98,3.6,26.9,1
+3506,Oregon CD 6. North Central,3,116,7.3,30.1,1
+3507,Oregon CD 7. South Central,-0.055555556,104,4.6,27.3,1
+3508,Oregon CD 8. Northeast,-0.888888889,112,5.4,25,1
+3509,Oregon CD 9. Southeast,0.333333333,112,6.1,26.5,1
+3601,Pennsylvania CD 1. Pocono Mountains,-1.166666667,118,7.3,22.6,1
+3602,Pennsylvania CD 2. East Central Mountains,0.277777778,118,7.2,25.3,1
+3603,Pennsylvania CD 3. Southeastern Piedmont,2.111111111,119,7.2,28.6,1
+3604,Pennsylvania CD 4. Lower Susquehanna,1.833333333,117,6.8,28.5,1
+3605,Pennsylvania CD 5. Middle Susquehanna,0.055555556,116,6.5,25.6,1
+3606,Pennsylvania CD 6. Upper Susquehanna,-1.444444444,117,7.2,22.2,1
+3607,Pennsylvania CD 7. Central Mountains,-1,113,6.1,24.1,1
+3608,Pennsylvania CD 8. South Central Mountains,0.888888889,117,7,26.6,1
+3609,Pennsylvania CD 9. Southwest Plateau,0.944444444,116,6.8,26.9,1
+3610,Pennsylvania CD 10. Northwest Plateau,-1,116,7.1,23.1,1
+3701,Rhode Island CD 1. Rhode Island (Entire State),1.833333333,122,8.1,27.2,1
+3801,South Carolina CD 1. Mountain,6.944444444,110,4.4,40.1,1
+3802,South Carolina CD 2. Northwest,8.111111111,114,5.1,41.5,1
+3803,South Carolina CD 3. North Central,8.722222222,114,5.5,42.2,1
+3804,South Carolina CD 4. Northeast,10.66666667,116,6.1,45.1,1
+3805,South Carolina CD 5. West Central,10,117,6.2,43.8,1
+3806,South Carolina CD 6. Central,10.66666667,114,5.8,45.4,1
+3807,South Carolina CD 7. Southern,11.83333333,113,5.6,47.7,1
+3901,South Dakota CD 1. Northwest,-6,93,5.8,15.4,1
+3902,South Dakota CD 2. North Central,-9.166666667,81,4.2,11.3,1
+3903,South Dakota CD 3. Northeast,-10.38888889,86,4.5,8.8,1
+3904,South Dakota CD 4. Black Hills,-2.611111111,105,6.3,21,1
+3905,South Dakota CD 5. Southwest,-2.888888889,104,6.7,20.1,1
+3906,South Dakota CD 6. Central,-6.666666667,88,4.8,15.2,1
+3907,South Dakota CD 7. East Central,-9.277777778,81,4,11.3,1
+3908,South Dakota CD 8. South Central,-4.111111111,96,5.3,19.3,1
+3909,South Dakota CD 9. Southeast,-6.944444444,84,4,15.5,1
+4001,Tennessee CD 1. Eastern,5.833333333,113,5.4,37.1,1
+4002,Tennessee CD 2. Cumberland Plateau,5.777777778,114,6.1,36.3,1
+4003,Tennessee CD 3. Middle,6.333333333,112,5.9,37.5,1
+4004,Tennessee CD 4. Western,6.388888889,113,5.8,37.7,1
+4101,Texas CD 1. High Plains,5.611111111,114,4.8,37.3,1
+4102,Texas CD 2. Low Rolling Plains,8.333333333,119,6.1,40.9,1
+4103,Texas CD 3. North Central,9.833333333,117,5.9,43.8,1
+4104,Texas CD 4. East Texas,10.72222222,109,4.4,46.9,1
+4105,Texas CD 5. Trans Pecos,9,106,3.7,44.5,1
+4106,Texas CD 6. Edwards Plateau,10.88888889,116,5.3,46.3,1
+4107,Texas CD 7. South Central,14.22222222,118,6.2,51.4,1
+4108,Texas CD 8. Upper Coast,14.72222222,118,6.1,52.4,1
+4109,Texas CD 9. South,16,121,6.5,54.3,1
+4110,Texas CD 10. Lower Valley,18.94444444,123,6.9,59.2,1
+4201,Utah CD 1. Western,0.111111111,112,5.6,26.6,1
+4202,Utah CD 2. Dixie,5.5,107,3.7,38.2,1
+4203,Utah CD 3. North Central,-1,103,4.7,25.5,1
+4204,Utah CD 4. South Central,-1.5,96,3.3,26,1
+4205,Utah CD 5. Northern Mountains,-4.555555556,94,3.6,20.2,1
+4206,Utah CD 6. Uinta Basin,-6.222222222,76,2,18.8,1
+4207,Utah CD 7. Southeast,-2,71,1.2,27.2,1
+4301,Vermont CD 1. Northeastern,-5.777777778,117,8.1,13.5,1
+4302,Vermont CD 2. Western,-4.222222222,117,8,16.4,1
+4303,Vermont CD 3. Southeastern,-3.555555556,117,8.2,17.4,1
+4401,Virginia CD 1. Tidewater,6.444444444,116,5.5,38.1,1
+4402,Virginia CD 2. Eastern Piedmont,5.5,115,5.5,36.4,1
+4403,Virginia CD 3. Western Piedmont,5,115,5.5,35.5,1
+4404,Virginia CD 4. Northern,3.722222222,116,6.8,31.9,1
+4405,Virginia CD 5. Central Mountain,3.166666667,116,5.8,31.9,1
+4406,Virginia CD 6. Southwestern Mountain,3.888888889,114,6,33,1
+4501,Washington CD 1. West Olympic Coast,5.055555556,110,4,37.1,1
+4502,Washington CD 2. North East Olympic San Juan,5.611111111,109,4,38.1,1
+4503,Washington CD 3. Puget Sound Lowlands,5.444444444,110,4,37.8,1
+4504,Washington CD 4. East Olympic Cascade Foothills,3.722222222,108,4,34.7,1
+4505,Washington CD 5. Cascade Mountains West,-0.222222222,103,4.1,27.5,1
+4506,Washington CD 6. East Slope Cascades,-1.722222222,106,5.4,23.5,1
+4507,Washington CD 7. Okanogan Big Bend,-1.055555556,111,6.5,23.6,1
+4508,Washington CD 8. Central Basin,2.5,115,8.3,28.2,1
+4509,Washington CD 9. Northeastern,-2,111,6.6,21.8,1
+4510,Washington CD 10. Palouse Blue Mountains,1.944444444,119,7.5,28,1
+4601,West Virginia CD 1. Northwestern,2.722222222,117,7.2,29.7,1
+4602,West Virginia CD 2. North Central,3.388888889,117,7.6,30.5,1
+4603,West Virginia CD 3. Southwestern,4.444444444,114,6.8,33.2,1
+4604,West Virginia CD 4. Central,1.611111111,114,6.4,28.5,1
+4605,West Virginia CD 5. Southern,3.055555556,111,5.5,32,1
+4606,West Virginia CD 6. Northeastern,2.5,115,6.7,29.8,1
+4701,Wisconsin CD 1. Northwest,-7.777777778,120,9.4,8.6,1
+4702,Wisconsin CD 2. North Central,-7.5,122,8.9,9.6,1
+4703,Wisconsin CD 3. Northeast,-5.888888889,123,9.7,11.7,1
+4704,Wisconsin CD 4. West Central,-6.5,115,8.5,11.8,1
+4705,Wisconsin CD 5. Central,-5.111111111,122,9.4,13.4,1
+4706,Wisconsin CD 6. East Central,-3.611111111,123,9.9,15.6,1
+4707,Wisconsin CD 7. Southwest,-4.388888889,117,8.3,15.8,1
+4708,Wisconsin CD 8. South Central,-3.555555556,120,8.7,16.9,1
+4709,Wisconsin CD 9. Southeast,-2.722222222,121,8.7,18.4,1
+4801,Wyoming CD 1. Yellowstone Drainage,-5.833333333,118,6.3,15.2,1
+4802,Wyoming CD 2. Snake Drainage,-6.666666667,119,5.3,14.7,1
+4803,Wyoming CD 3. Green and Bear Drainage,-7.166666667,88,2.9,16.2,1
+4804,Wyoming CD 4. Big Horn,-3.5,119,8,17.7,1
+4805,"Wyoming CD 5. Powder, Little Mo and Tongue Drainages",-3,115,7,19.6,1
+4806,Wyoming CD 6. Belle Fourche Drainage,-3.333333333,110,7,19,1
+4807,Wyoming CD 7. Cheyenne Niobrara Drainage,-3,111,6.3,20.3,1
+4808,Wyoming CD 8. Lower Platte,-1.833333333,114,5.9,22.8,1
+4809,Wyoming CD 9. Wind River,-5.555555556,99,4.7,17.3,1
+4810,Wyoming CD 10. Upper Platte,-5.444444444,98,3.9,18.3,1
+101,Alabama CD 1. Northern Valley,7.555555556,112,5.5,40.1,2
+102,Alabama CD 2. Appalachian Mountain,7.888888889,111,5.1,41.1,2
+103,Alabama CD 3. Upper Plains,9.111111111,111,5,43.4,2
+104,Alabama CD 4. Eastern Valley,8.722222222,111,5,42.7,2
+105,Alabama CD 5. Piedmont Plateau,9.055555556,109,4.3,44,2
+106,Alabama CD 6. Prairie,10.27777778,107,4.2,46.3,2
+107,Alabama CD 7. Coastal Plain,11.5,104,4.3,48.4,2
+108,Alabama CD 8. Gulf,12.61111111,105,3.9,50.8,2
+201,Arizona CD 1. Northwest,7.611111111,105,3.4,42.3,2
+202,Arizona CD 2. Northeast,1.277777778,102,3.4,30.9,2
+203,Arizona CD 3. North Central,6.833333333,107,3.4,40.9,2
+204,Arizona CD 4. East Central,7.111111111,112,3.9,40.9,2
+205,Arizona CD 5. Southwest,12.61111111,101,2.6,52.1,2
+206,Arizona CD 6. South Central,11.5,96,2.4,50.3,2
+207,Arizona CD 7. Southeast,8.777777778,100,2.5,45.3,2
+301,Arkansas CD 1. Northwest,4.277777778,109,4.7,35,2
+302,Arkansas CD 2. North Central,4.611111111,108,4.7,35.6,2
+303,Arkansas CD 3. Northeast,5.777777778,109,5.3,37.1,2
+304,Arkansas CD 4. West Central,5.944444444,109,4.5,38.2,2
+305,Arkansas CD 5. Central,6.611111111,105,3.7,40.2,2
+306,Arkansas CD 6. East Central,7.444444444,113,5.3,40.1,2
+307,Arkansas CD 7. Southwest,7.833333333,111,4.3,41.8,2
+308,Arkansas CD 8. South Central,8.222222222,107,4,42.8,2
+309,Arkansas CD 9. Southeast,8.5,110,4.7,42.6,2
+401,California CD 1. North Coast Drainage,5.277777778,99,2.5,39,2
+402,California CD 2. Sacramento Drainage,5.166666667,96,2.7,38.6,2
+403,California CD 3. Northeast Interior Basins,0.833333333,117,5.3,28.2,2
+404,California CD 4. Central Coast Drainage,9.333333333,95,2.1,46.7,2
+405,California CD 5. San Joaquin Drainage,6.666666667,99,2.5,41.5,2
+406,California CD 6. South Coast Drainage,11.16666667,110,3.4,48.7,2
+407,California CD 7. Southeast Desert Basins,9.722222222,113,3.6,45.9,2
+501,Colorado CD 1. Arkansas Drainage,0.333333333,108,4.3,28.3,2
+502,Colorado CD 2. Colorado Drainage,-5.055555556,87,2.3,20.6,2
+503,Colorado CD 3. Kansas Drainage,0.833333333,122,6.9,26.6,2
+504,Colorado CD 4. Platte Drainage,-1.444444444,114,5.4,24,2
+505,Colorado CD 5. Rio Grande Drainage,-6.888888889,72,1.3,18.3,2
+601,Connecticut CD 1. Northwest,-0.944444444,119,7.6,22.7,2
+602,Connecticut CD 2. Central,0.722222222,120,7.9,25.4,2
+603,Connecticut CD 3. Coastal,2.055555556,120,7.7,28,2
+701,Delaware CD 1. Northern,3.388888889,116,6.7,31.4,2
+702,Delaware CD 2. Southern,4.944444444,118,6.9,34,2
+801,Florida CD 1. Northwest,13.61111111,110,5,51.5,2
+802,Florida CD 2. North,14.61111111,109,4.3,54,2
+803,Florida CD 3. North Central,16.66666667,107,3.8,58.2,2
+804,Florida CD 4. South Central,17.88888889,107,3.3,60.9,2
+805,Florida CD 5. Everglades and Southwest Coast,19.66666667,108,3.2,64.2,2
+806,Florida CD 6. Lower East Coast,20.66666667,110,3.7,65.5,2
+807,Florida CD 7. Keys,21.94444444,112,3.6,67.9,2
+901,Georgia CD 1. Northwest,7.722222222,114,5.6,40.3,2
+902,Georgia CD 2. North Central,7.5,113,5.2,40.3,2
+903,Georgia CD 3. Northeast,8.333333333,114,5.2,41.8,2
+904,Georgia CD 4. West Central,9.666666667,113,5.3,44.1,2
+905,Georgia CD 5. Central,10.88888889,117,5.9,45.7,2
+906,Georgia CD 6. East Central,11.66666667,117,6.3,46.7,2
+907,Georgia CD 7. Southwest,12.11111111,108,4.6,49.2,2
+908,Georgia CD 8. South Central,12.27777778,108,4.7,49.4,2
+909,Georgia CD 9. Southeast,13.16666667,113,5,50.7,2
+1001,Idaho CD 1. Panhandle,-1.055555556,117,6.9,23.2,2
+1002,Idaho CD 2. North Central Prairies,-0.166666667,111,5.4,26.3,2
+1003,Idaho CD 3. North Central Canyons,0.888888889,112,5.5,28.1,2
+1004,Idaho CD 4. Central Mountains,-3.277777778,112,5.1,21,2
+1005,Idaho CD 5. Southwestern Valleys,1.388888889,119,6.7,27.8,2
+1006,Idaho CD 6. Southwestern Highlands,-0.166666667,110,5.4,26.3,2
+1007,Idaho CD 7. Central Plains,-1,118,6.8,23.4,2
+1008,Idaho CD 8. Northeastern Valleys,-6.222222222,93,3.7,17.1,2
+1009,Idaho CD 9. Upper Snake River Plains,-5,100,4.6,18.4,2
+1010,Idaho CD 10. Eastern Highlands,-3.833333333,109,5.1,20,2
+1101,Illinois CD 1. Northwest,-2.666666667,115,7.3,19.9,2
+1102,Illinois CD 2. Northeast,-1.777777778,119,7.5,21.3,2
+1103,Illinois CD 3. West,-1.5,109,5.5,23.8,2
+1104,Illinois CD 4. Central,-0.777777778,114,6.9,23.7,2
+1105,Illinois CD 5. East,-0.277777778,121,7.6,23.9,2
+1106,Illinois CD 6. West Southwest,0.333333333,110,5.5,27.1,2
+1107,Illinois CD 7. East Southeast,1.277777778,116,6.6,27.7,2
+1108,Illinois CD 8. Southwest,2.611111111,111,5.6,31.1,2
+1109,Illinois CD 9. Southeast,3.111111111,116,6.2,31.4,2
+1201,Indiana CD 1. Northwest,-0.277777778,120,8.2,23.3,2
+1202,Indiana CD 2. North Central,0,120,8.4,23.6,2
+1203,Indiana CD 3. Northeast,-0.166666667,119,8.1,23.6,2
+1204,Indiana CD 4. West Central,0.888888889,119,7.5,26.1,2
+1205,Indiana CD 5. Central,1.333333333,121,8,26.4,2
+1206,Indiana CD 6. East Central,1.222222222,121,8.4,25.8,2
+1207,Indiana CD 7. Southwest,2.833333333,119,6.9,30.2,2
+1208,Indiana CD 8. South Central,2.777777778,117,7.1,29.9,2
+1209,Indiana CD 9. Southeast,2.944444444,121,7.8,29.5,2
+1301,Iowa CD 1. Northwest,-7,95,4.8,14.6,2
+1302,Iowa CD 2. North Central,-6.666666667,102,5.8,14.2,2
+1303,Iowa CD 3. Northeast,-5.388888889,112,7.2,15.1,2
+1304,Iowa CD 4. West Central,-5.111111111,99,5.1,17.7,2
+1305,Iowa CD 5. Central,-5,101,5.2,17.8,2
+1306,Iowa CD 6. East Central,-3.888888889,110,6.1,18.9,2
+1307,Iowa CD 7. Southwest,-3.555555556,97,4.8,20.8,2
+1308,Iowa CD 8. South Central,-3.666666667,98,4.3,21.1,2
+1309,Iowa CD 9. Southeast,-3.166666667,104,4.7,21.6,2
+1401,Kansas CD 1. Northwest,0.166666667,108,5.5,26.8,2
+1402,Kansas CD 2. North Central,-0.777777778,102,4.8,25.8,2
+1403,Kansas CD 3. Northeast,-0.888888889,104,4.8,25.6,2
+1404,Kansas CD 4. West Central,1.222222222,116,6,28.2,2
+1405,Kansas CD 5. Central,0.611111111,106,5,28.1,2
+1406,Kansas CD 6. East Central,0.777777778,108,5.2,28.2,2
+1407,Kansas CD 7. Southwest,2.222222222,115,5.5,30.5,2
+1408,Kansas CD 8. South Central,2.166666667,112,5.4,30.5,2
+1409,Kansas CD 9. Southeast,2.666666667,114,5.6,31.2,2
+1501,Kentucky CD 1. Western,4.555555556,111,5.8,34.4,2
+1502,Kentucky CD 2. Central,4.666666667,113,6.5,33.9,2
+1503,Kentucky CD 3. Blue Grass,4,116,7.4,31.8,2
+1504,Kentucky CD 4. Eastern,4.666666667,114,6.4,34,2
+1601,Louisiana CD 1. Northwest,10.11111111,108,4.5,45.7,2
+1602,Louisiana CD 2. North Central,10,107,4.7,45.3,2
+1603,Louisiana CD 3. Northeast,10,102,4.1,45.9,2
+1604,Louisiana CD 4. West Central,11.05555556,103,4,47.9,2
+1605,Louisiana CD 5. Central,11.44444444,100,3.6,49,2
+1606,Louisiana CD 6. East Central,12.72222222,105,4.5,50.4,2
+1607,Louisiana CD 7. Southwest,13.38888889,107,4.5,51.6,2
+1608,Louisiana CD 8. South Central,13.77777778,108,4.6,52.2,2
+1609,Louisiana CD 9. Southeast,14.27777778,104,4.2,53.5,2
+1701,Maine CD 1. North,-8,118,7.7,9.9,2
+1702,Maine CD 2. South Interior,-4.611111111,117,7.7,16,2
+1703,Maine CD 3. Coastal,-2.888888889,118,6.9,19.9,2
+1801,Maryland CD 1. Southeastern Shore,6,119,7,35.8,2
+1802,Maryland CD 2. Central Eastern Shore,5,118,6.7,34.3,2
+1803,Maryland CD 3. Lower Southern,5.055555556,118,6.3,34.8,2
+1804,Maryland CD 4. Upper Southern,4.722222222,118,6.6,33.9,2
+1805,Maryland CD 5. Northeastern Shore,4,116,6.1,33.1,2
+1806,Maryland CD 6. North Central,3.222222222,117,6.8,31,2
+1807,Maryland CD 7. Appalachian Mountains,2.333333333,117,6.7,29.5,2
+1808,Maryland CD 8. Allegheny Plateau,0.555555556,117,7.1,25.9,2
+1901,Massachusetts CD 1. West,-1.944444444,119,7.9,20.6,2
+1902,Massachusetts CD 2. Central,-0.166666667,122,8.4,23.3,2
+1903,Massachusetts CD 3. Coastal,1.555555556,118,6.9,27.9,2
+2001,Michigan CD 1. West Upper,-6.777777778,122,8.5,11.3,2
+2002,Michigan CD 2. East Upper,-4.666666667,123,8.6,15,2
+2003,Michigan CD 3. Northwest Lower,-2.722222222,124,8.9,18.2,2
+2004,Michigan CD 4. Northeast Lower,-3.111111111,124,9.3,17.1,2
+2005,Michigan CD 5. West Central Lower,-1.944444444,122,7.8,20.7,2
+2006,Michigan CD 6. Central Lower,-2,122,9,19.4,2
+2007,Michigan CD 7. East Central Lower,-1.111111111,123,9.5,20.5,2
+2008,Michigan CD 8. Southwest Lower,-0.555555556,122,8.1,22.9,2
+2009,Michigan CD 9. South Central Lower,-1,122,8.5,21.7,2
+2010,Michigan CD 10. Southeast Lower,-0.444444444,122,9.1,22.1,2
+2101,Minnesota CD 1. Northwest,-12.44444444,102,7.6,2,2
+2102,Minnesota CD 2. North Central,-11.61111111,109,8.6,2.5,2
+2103,Minnesota CD 3. Northeast,-11.05555556,115,8.6,3.5,2
+2104,Minnesota CD 4. West Central,-10,96,6.4,7.6,2
+2105,Minnesota CD 5. Central,-9,103,7.2,8.6,2
+2106,Minnesota CD 6. East Central,-9,115,8.4,7.4,2
+2107,Minnesota CD 7. Southwest,-8.444444444,93,5.1,11.7,2
+2108,Minnesota CD 8. South Central,-7.5,103,6.4,12.1,2
+2109,Minnesota CD 9. Southeast,-6.611111111,113,7.9,12.2,2
+2201,Mississippi CD 1. Upper Delta,8.5,114,5.4,41.9,2
+2202,Mississippi CD 2. North Central,8.111111111,108,5.2,41.4,2
+2203,Mississippi CD 3. Northeast,8.166666667,115,6,40.7,2
+2204,Mississippi CD 4. Lower Delta,9.666666667,109,5,44.4,2
+2205,Mississippi CD 5. Central,9.666666667,108,4.8,44.6,2
+2206,Mississippi CD 6. East Central,9.444444444,112,5.2,43.8,2
+2207,Mississippi CD 7. Southwest,11.33333333,109,4.8,47.6,2
+2208,Mississippi CD 8. South Central,11.33333333,105,4.4,48,2
+2209,Mississippi CD 9. Southeast,10.94444444,108,4.4,47.3,2
+2210,Mississippi CD 10. Coastal,12.33333333,105,4,50.2,2
+2301,Missouri CD 1. Northwest Prairie,-1.277777778,103,4.7,25,2
+2302,Missouri CD 2. Northeast Prairie,0,110,5.1,26.9,2
+2303,Missouri CD 3. West Central Plains,1.722222222,112,5.3,29.8,2
+2304,Missouri CD 4. West Ozarks,3.166666667,112,5.2,32.5,2
+2305,Missouri CD 5. East Ozarks,2.888888889,110,5.3,31.9,2
+2306,Missouri CD 6. Bootheel,4.833333333,110,5.6,35.1,2
+2401,Montana CD 1. Western,-2.555555556,117,7.5,19.9,2
+2402,Montana CD 2. Southwestern,-4.388888889,112,6.2,17.9,2
+2403,Montana CD 3. North Central,-6.444444444,84,5.7,14.7,2
+2404,Montana CD 4. Central,-3.388888889,95,6.5,19.4,2
+2405,Montana CD 5. South Central,-2.666666667,113,7.3,19.9,2
+2406,Montana CD 6. Northeastern,-8.277777778,92,6.8,10.3,2
+2407,Montana CD 7. Southeastern,-4.833333333,100,7.2,16.1,2
+2501,Nebraska CD 1. Panhandle,-1.111111111,117,6.7,23.3,2
+2502,Nebraska CD 2. North Central,-3.388888889,98,5,20.9,2
+2503,Nebraska CD 3. Northeast,-5.111111111,88,4.1,18.7,2
+2505,Nebraska CD 5. Central,-3.055555556,93,4.5,22,2
+2506,Nebraska CD 6. East Central,-3.722222222,94,4,21.3,2
+2507,Nebraska CD 7. Southwest,-0.555555556,115,6.2,24.8,2
+2508,Nebraska CD 8. South Central,-1.944444444,93,4.5,24,2
+2509,Nebraska CD 9. Southeast,-2.666666667,96,4,23.2,2
+2601,Nevada CD 1. Northwestern,1.944444444,116,5.9,29.6,2
+2602,Nevada CD 2. Northeastern,-0.666666667,114,5.4,25.4,2
+2603,Nevada CD 3. South Central,2.444444444,117,5.4,31,2
+2604,Nevada CD 4. Extreme Southern,8.166666667,101,3,43.7,2
+2701,New Hampshire CD 1. North,-5.777777778,119,8.4,13.2,2
+2702,New Hampshire CD 2. South,-2.888888889,119,7.7,19.1,2
+2801,New Jersey CD 1. Northern,1.5,120,8,26.7,2
+2802,New Jersey CD 2. Southern,3.722222222,119,7.4,31.3,2
+2803,New Jersey CD 3. Coastal,4.166666667,119,7.3,32.2,2
+2901,New Mexico CD 1. Northwestern Plateau,-0.888888889,92,3,27.4,2
+2902,New Mexico CD 2. Northern Mountains,-1.388888889,92,2.7,26.8,2
+2903,New Mexico CD 3. Northeastern Plains,3.555555556,104,3.8,34.6,2
+2904,New Mexico CD 4. Southwestern Mountains,1.055555556,100,3.1,30.8,2
+2905,New Mexico CD 5. Central Valley,3.777777778,101,2.8,36,2
+2906,New Mexico CD 6. Central Highlands,2.222222222,107,3.7,32.3,2
+2907,New Mexico CD 7. Southeastern Plains,6.388888889,113,4.8,38.7,2
+2908,New Mexico CD 8. Southern Desert,6.222222222,103,2.8,40.4,2
+3001,New York CD 1. Western Plateau,-1.722222222,117,7.3,21.6,2
+3002,New York CD 2. Eastern Plateau,-2.222222222,117,7.2,20.8,2
+3003,New York CD 3. Northern Plateau,-5.222222222,117,8.6,14,2
+3004,New York CD 4. Coastal,3.055555556,119,7.5,30,2
+3005,New York CD 5. Hudson Valley,-0.555555556,119,8.3,22.7,2
+3006,New York CD 6. Mohawk Valley,-3,117,7.6,19,2
+3007,New York CD 7. Champlain Valley,-4.666666667,117,8.1,15.5,2
+3008,New York CD 8. St. Lawrence Valley,-4.666666667,119,9.5,14.1,2
+3009,New York CD 9. Great Lakes,-1.444444444,120,7.9,21.5,2
+3010,New York CD 10. Central Lakes,-1.388888889,117,7.5,22,2
+3101,North Carolina CD 1. Southern Mountains,4.611111111,108,4.5,35.8,2
+3102,North Carolina CD 2. Northern Mountains,4.777777778,113,5.7,34.9,2
+3103,North Carolina CD 3. Northern Piedmont,6.666666667,116,5.8,38.2,2
+3104,North Carolina CD 4. Central Piedmont,7.333333333,116,5.9,39.3,2
+3105,North Carolina CD 5. Southern Piedmont,8.277777778,116,6,40.9,2
+3106,North Carolina CD 6. Southern Coastal Plain,10,119,6.3,43.7,2
+3107,North Carolina CD 7. Central Coastal Plain,9.777777778,120,6.6,43,2
+3108,North Carolina CD 8. Northern Coastal Plain,8.666666667,120,6.9,40.7,2
+3201,North Dakota CD 1. Northwest,-11,95,6.6,5.6,2
+3202,North Dakota CD 2. North Central,-11.94444444,102,7.3,3.2,2
+3203,North Dakota CD 3. Northeast,-12.72222222,100,7.4,1.7,2
+3204,North Dakota CD 4. West Central,-9.388888889,94,6.5,8.6,2
+3205,North Dakota CD 5. Central,-11.33333333,98,6.4,5.2,2
+3206,North Dakota CD 6. East Central,-11.83333333,94,6.1,4.6,2
+3207,North Dakota CD 7. Southwest,-7.388888889,96,6.7,12,2
+3208,North Dakota CD 8. South Central,-9.666666667,92,5.8,8.8,2
+3209,North Dakota CD 9. Southeast,-10.83333333,90,5.2,7.3,2
+3301,Ohio CD 1. Northwest,0.444444444,118,8.1,24.7,2
+3302,Ohio CD 2. North Central,1.055555556,120,8.4,25.5,2
+3303,Ohio CD 3. Northeast,1,121,9,24.8,2
+3304,Ohio CD 4. West Central,1.111111111,120,8.2,25.8,2
+3305,Ohio CD 5. Central,1.722222222,121,8.1,27,2
+3306,Ohio CD 6. Central Hills,1.277777778,121,8.8,25.5,2
+3307,Ohio CD 7. Northeast Hills,1.333333333,118,8.2,26.2,2
+3308,Ohio CD 8. Southwest,2.444444444,120,7.9,28.5,2
+3309,Ohio CD 9. South Central,3.166666667,117,7.2,30.5,2
+3310,Ohio CD 10. Southeast,2.333333333,117,7.6,28.6,2
+3401,Oklahoma CD 1. Panhandle,3.333333333,112,4.9,33.1,2
+3402,Oklahoma CD 2. North Central,4.166666667,115,6.1,33.4,2
+3403,Oklahoma CD 3. Northeast,4.722222222,117,5.7,34.8,2
+3404,Oklahoma CD 4. West Central,5.333333333,118,6.4,35.2,2
+3405,Oklahoma CD 5. Central,6,118,6.2,36.6,2
+3406,Oklahoma CD 6. East Central,6.166666667,115,5,38.1,2
+3407,Oklahoma CD 7. Southwest,6.777777778,120,6.3,37.9,2
+3408,Oklahoma CD 8. South Central,7.444444444,118,5.5,39.9,2
+3409,Oklahoma CD 9. Southeast,7.333333333,117,5.3,39.9,2
+3501,Oregon CD 1. Coastal Area,6.277777778,104,3.2,40.1,2
+3502,Oregon CD 2. Willamette Valley,5.888888889,118,4.7,37.9,2
+3503,Oregon CD 3. Southwestern Valleys,4,99,2.8,36.4,2
+3504,Oregon CD 4. Northern Cascades,1.777777778,102,3.5,31.7,2
+3505,Oregon CD 5. High Plateau,-0.833333333,98,3.6,26.9,2
+3506,Oregon CD 6. North Central,3,116,7.3,30.1,2
+3507,Oregon CD 7. South Central,-0.055555556,104,4.6,27.3,2
+3508,Oregon CD 8. Northeast,-0.888888889,112,5.4,25,2
+3509,Oregon CD 9. Southeast,0.333333333,112,6.1,26.5,2
+3601,Pennsylvania CD 1. Pocono Mountains,-1.166666667,118,7.3,22.6,2
+3602,Pennsylvania CD 2. East Central Mountains,0.277777778,118,7.2,25.3,2
+3603,Pennsylvania CD 3. Southeastern Piedmont,2.111111111,119,7.2,28.6,2
+3604,Pennsylvania CD 4. Lower Susquehanna,1.833333333,117,6.8,28.5,2
+3605,Pennsylvania CD 5. Middle Susquehanna,0.055555556,116,6.5,25.6,2
+3606,Pennsylvania CD 6. Upper Susquehanna,-1.444444444,117,7.2,22.2,2
+3607,Pennsylvania CD 7. Central Mountains,-1,113,6.1,24.1,2
+3608,Pennsylvania CD 8. South Central Mountains,0.888888889,117,7,26.6,2
+3609,Pennsylvania CD 9. Southwest Plateau,0.944444444,116,6.8,26.9,2
+3610,Pennsylvania CD 10. Northwest Plateau,-1,116,7.1,23.1,2
+3701,Rhode Island CD 1. Rhode Island (Entire State),1.833333333,122,8.1,27.2,2
+3801,South Carolina CD 1. Mountain,6.944444444,110,4.4,40.1,2
+3802,South Carolina CD 2. Northwest,8.111111111,114,5.1,41.5,2
+3803,South Carolina CD 3. North Central,8.722222222,114,5.5,42.2,2
+3804,South Carolina CD 4. Northeast,10.66666667,116,6.1,45.1,2
+3805,South Carolina CD 5. West Central,10,117,6.2,43.8,2
+3806,South Carolina CD 6. Central,10.66666667,114,5.8,45.4,2
+3807,South Carolina CD 7. Southern,11.83333333,113,5.6,47.7,2
+3901,South Dakota CD 1. Northwest,-6,93,5.8,15.4,2
+3902,South Dakota CD 2. North Central,-9.166666667,81,4.2,11.3,2
+3903,South Dakota CD 3. Northeast,-10.38888889,86,4.5,8.8,2
+3904,South Dakota CD 4. Black Hills,-2.611111111,105,6.3,21,2
+3905,South Dakota CD 5. Southwest,-2.888888889,104,6.7,20.1,2
+3906,South Dakota CD 6. Central,-6.666666667,88,4.8,15.2,2
+3907,South Dakota CD 7. East Central,-9.277777778,81,4,11.3,2
+3908,South Dakota CD 8. South Central,-4.111111111,96,5.3,19.3,2
+3909,South Dakota CD 9. Southeast,-6.944444444,84,4,15.5,2
+4001,Tennessee CD 1. Eastern,5.833333333,113,5.4,37.1,2
+4002,Tennessee CD 2. Cumberland Plateau,5.777777778,114,6.1,36.3,2
+4003,Tennessee CD 3. Middle,6.333333333,112,5.9,37.5,2
+4004,Tennessee CD 4. Western,6.388888889,113,5.8,37.7,2
+4101,Texas CD 1. High Plains,5.611111111,114,4.8,37.3,2
+4102,Texas CD 2. Low Rolling Plains,8.333333333,119,6.1,40.9,2
+4103,Texas CD 3. North Central,9.833333333,117,5.9,43.8,2
+4104,Texas CD 4. East Texas,10.72222222,109,4.4,46.9,2
+4105,Texas CD 5. Trans Pecos,9,106,3.7,44.5,2
+4106,Texas CD 6. Edwards Plateau,10.88888889,116,5.3,46.3,2
+4107,Texas CD 7. South Central,14.22222222,118,6.2,51.4,2
+4108,Texas CD 8. Upper Coast,14.72222222,118,6.1,52.4,2
+4109,Texas CD 9. South,16,121,6.5,54.3,2
+4110,Texas CD 10. Lower Valley,18.94444444,123,6.9,59.2,2
+4201,Utah CD 1. Western,0.111111111,112,5.6,26.6,2
+4202,Utah CD 2. Dixie,5.5,107,3.7,38.2,2
+4203,Utah CD 3. North Central,-1,103,4.7,25.5,2
+4204,Utah CD 4. South Central,-1.5,96,3.3,26,2
+4205,Utah CD 5. Northern Mountains,-4.555555556,94,3.6,20.2,2
+4206,Utah CD 6. Uinta Basin,-6.222222222,76,2,18.8,2
+4207,Utah CD 7. Southeast,-2,71,1.2,27.2,2
+4301,Vermont CD 1. Northeastern,-5.777777778,117,8.1,13.5,2
+4302,Vermont CD 2. Western,-4.222222222,117,8,16.4,2
+4303,Vermont CD 3. Southeastern,-3.555555556,117,8.2,17.4,2
+4401,Virginia CD 1. Tidewater,6.444444444,116,5.5,38.1,2
+4402,Virginia CD 2. Eastern Piedmont,5.5,115,5.5,36.4,2
+4403,Virginia CD 3. Western Piedmont,5,115,5.5,35.5,2
+4404,Virginia CD 4. Northern,3.722222222,116,6.8,31.9,2
+4405,Virginia CD 5. Central Mountain,3.166666667,116,5.8,31.9,2
+4406,Virginia CD 6. Southwestern Mountain,3.888888889,114,6,33,2
+4501,Washington CD 1. West Olympic Coast,5.055555556,110,4,37.1,2
+4502,Washington CD 2. North East Olympic San Juan,5.611111111,109,4,38.1,2
+4503,Washington CD 3. Puget Sound Lowlands,5.444444444,110,4,37.8,2
+4504,Washington CD 4. East Olympic Cascade Foothills,3.722222222,108,4,34.7,2
+4505,Washington CD 5. Cascade Mountains West,-0.222222222,103,4.1,27.5,2
+4506,Washington CD 6. East Slope Cascades,-1.722222222,106,5.4,23.5,2
+4507,Washington CD 7. Okanogan Big Bend,-1.055555556,111,6.5,23.6,2
+4508,Washington CD 8. Central Basin,2.5,115,8.3,28.2,2
+4509,Washington CD 9. Northeastern,-2,111,6.6,21.8,2
+4510,Washington CD 10. Palouse Blue Mountains,1.944444444,119,7.5,28,2
+4601,West Virginia CD 1. Northwestern,2.722222222,117,7.2,29.7,2
+4602,West Virginia CD 2. North Central,3.388888889,117,7.6,30.5,2
+4603,West Virginia CD 3. Southwestern,4.444444444,114,6.8,33.2,2
+4604,West Virginia CD 4. Central,1.611111111,114,6.4,28.5,2
+4605,West Virginia CD 5. Southern,3.055555556,111,5.5,32,2
+4606,West Virginia CD 6. Northeastern,2.5,115,6.7,29.8,2
+4701,Wisconsin CD 1. Northwest,-7.777777778,120,9.4,8.6,2
+4702,Wisconsin CD 2. North Central,-7.5,122,8.9,9.6,2
+4703,Wisconsin CD 3. Northeast,-5.888888889,123,9.7,11.7,2
+4704,Wisconsin CD 4. West Central,-6.5,115,8.5,11.8,2
+4705,Wisconsin CD 5. Central,-5.111111111,122,9.4,13.4,2
+4706,Wisconsin CD 6. East Central,-3.611111111,123,9.9,15.6,2
+4707,Wisconsin CD 7. Southwest,-4.388888889,117,8.3,15.8,2
+4708,Wisconsin CD 8. South Central,-3.555555556,120,8.7,16.9,2
+4709,Wisconsin CD 9. Southeast,-2.722222222,121,8.7,18.4,2
+4801,Wyoming CD 1. Yellowstone Drainage,-5.833333333,118,6.3,15.2,2
+4802,Wyoming CD 2. Snake Drainage,-6.666666667,119,5.3,14.7,2
+4803,Wyoming CD 3. Green and Bear Drainage,-7.166666667,88,2.9,16.2,2
+4804,Wyoming CD 4. Big Horn,-3.5,119,8,17.7,2
+4805,"Wyoming CD 5. Powder, Little Mo and Tongue Drainages",-3,115,7,19.6,2
+4806,Wyoming CD 6. Belle Fourche Drainage,-3.333333333,110,7,19,2
+4807,Wyoming CD 7. Cheyenne Niobrara Drainage,-3,111,6.3,20.3,2
+4808,Wyoming CD 8. Lower Platte,-1.833333333,114,5.9,22.8,2
+4809,Wyoming CD 9. Wind River,-5.555555556,99,4.7,17.3,2
+4810,Wyoming CD 10. Upper Platte,-5.444444444,98,3.9,18.3,2
+101,Alabama CD 1. Northern Valley,14.61111111,122,7.4,50.9,3
+102,Alabama CD 2. Appalachian Mountain,15.11111111,123,7.5,51.7,3
+103,Alabama CD 3. Upper Plains,16.66666667,123,8.1,53.9,3
+104,Alabama CD 4. Eastern Valley,16.05555556,123,7.9,53,3
+105,Alabama CD 5. Piedmont Plateau,16.5,124,8,53.7,3
+106,Alabama CD 6. Prairie,18.44444444,125,8.9,56.3,3
+107,Alabama CD 7. Coastal Plain,19.55555556,127,9.4,57.8,3
+108,Alabama CD 8. Gulf,20.16666667,126,8.9,59.4,3
+201,Arizona CD 1. Northwest,10.55555556,57,0.1,50.9,3
+202,Arizona CD 2. Northeast,6.611111111,100,2.7,41.2,3
+203,Arizona CD 3. North Central,9.333333333,64,0.7,48.1,3
+204,Arizona CD 4. East Central,10.33333333,89,2,48.6,3
+205,Arizona CD 5. Southwest,16,52,-0.3,61.1,3
+206,Arizona CD 6. South Central,15.38888889,73,1.2,58.5,3
+207,Arizona CD 7. Southeast,12.5,85,1.6,52.9,3
+301,Arkansas CD 1. Northwest,11.66666667,115,5.8,47.2,3
+302,Arkansas CD 2. North Central,11.5,109,4.8,47.9,3
+303,Arkansas CD 3. Northeast,12.44444444,110,4.6,49.8,3
+304,Arkansas CD 4. West Central,13.27777778,116,5.6,50.3,3
+305,Arkansas CD 5. Central,13.5,108,4.3,52,3
+306,Arkansas CD 6. East Central,14.16666667,115,5.2,52.3,3
+307,Arkansas CD 7. Southwest,14.94444444,116,5.7,53.2,3
+308,Arkansas CD 8. South Central,15.44444444,115,5.6,54.2,3
+309,Arkansas CD 9. Southeast,15.44444444,117,5.6,54.2,3
+401,California CD 1. North Coast Drainage,6.611111111,61,-0.2,44.1,3
+402,California CD 2. Sacramento Drainage,6.944444444,54,-0.6,45.1,3
+403,California CD 3. Northeast Interior Basins,1.444444444,52,-0.7,35.3,3
+404,California CD 4. Central Coast Drainage,10.44444444,60,0,50.8,3
+405,California CD 5. San Joaquin Drainage,8.5,49,-0.7,48,3
+406,California CD 6. South Coast Drainage,10.72222222,51,-0.3,51.6,3
+407,California CD 7. Southeast Desert Basins,11.61111111,36,-1.5,54.4,3
+501,Colorado CD 1. Arkansas Drainage,6.444444444,117,5.6,38,3
+502,Colorado CD 2. Colorado Drainage,2,113,4.8,30.8,3
+503,Colorado CD 3. Kansas Drainage,6.222222222,111,5.5,37.7,3
+504,Colorado CD 4. Platte Drainage,3.333333333,112,4.8,33.2,3
+505,Colorado CD 5. Rio Grande Drainage,1.166666667,113,4.9,29.2,3
+601,Connecticut CD 1. Northwest,3.888888889,117,5.7,33.3,3
+602,Connecticut CD 2. Central,5.333333333,118,6,35.6,3
+603,Connecticut CD 3. Coastal,6.333333333,120,6.3,37.1,3
+701,Delaware CD 1. Northern,9,122,6.6,41.6,3
+702,Delaware CD 2. Southern,9.944444444,123,6.8,43.1,3
+801,Florida CD 1. Northwest,20.44444444,127,8.9,59.9,3
+802,Florida CD 2. North,20.55555556,127,7.6,61.4,3
+803,Florida CD 3. North Central,22.11111111,127,7.5,64.3,3
+804,Florida CD 4. South Central,22.33333333,125,6.1,66.1,3
+805,Florida CD 5. Everglades and Southwest Coast,23.05555556,123,5.1,68.4,3
+806,Florida CD 6. Lower East Coast,23.66666667,124,5.3,69.3,3
+807,Florida CD 7. Keys,24.55555556,125,4.9,71.3,3
+901,Georgia CD 1. Northwest,14.66666667,123,7.7,50.7,3
+902,Georgia CD 2. North Central,13.77777778,123,6.8,50,3
+903,Georgia CD 3. Northeast,14.27777778,121,6.3,51.4,3
+904,Georgia CD 4. West Central,16.66666667,124,8.3,53.7,3
+905,Georgia CD 5. Central,17.11111111,123,7.6,55.2,3
+906,Georgia CD 6. East Central,17.66666667,124,7.8,56,3
+907,Georgia CD 7. Southwest,19.44444444,127,8.8,58.2,3
+908,Georgia CD 8. South Central,19.22222222,126,8.3,58.3,3
+909,Georgia CD 9. Southeast,19.22222222,125,7.7,58.9,3
+1001,Idaho CD 1. Panhandle,1.111111111,62,0.2,33.8,3
+1002,Idaho CD 2. North Central Prairies,2.888888889,76,0.9,36.3,3
+1003,Idaho CD 3. North Central Canyons,4.166666667,71,0.6,38.9,3
+1004,Idaho CD 4. Central Mountains,0.277777778,94,2.3,30.2,3
+1005,Idaho CD 5. Southwestern Valleys,6.388888889,96,2.5,41,3
+1006,Idaho CD 6. Southwestern Highlands,3.388888889,90,2.1,36,3
+1007,Idaho CD 7. Central Plains,4.722222222,106,4,36.5,3
+1008,Idaho CD 8. Northeastern Valleys,-0.944444444,92,2.7,27.6,3
+1009,Idaho CD 9. Upper Snake River Plains,1.666666667,97,3.1,31.9,3
+1010,Idaho CD 10. Eastern Highlands,1.333333333,106,4.1,30.3,3
+1101,Illinois CD 1. Northwest,4.777777778,107,5,35.6,3
+1102,Illinois CD 2. Northeast,4.666666667,103,4.5,35.9,3
+1103,Illinois CD 3. West,6.333333333,103,4.3,39.1,3
+1104,Illinois CD 4. Central,6.333333333,106,4.7,38.7,3
+1105,Illinois CD 5. East,5.833333333,104,4.3,38.2,3
+1106,Illinois CD 6. West Southwest,7.666666667,101,4.2,41.6,3
+1107,Illinois CD 7. East Southeast,7.777777778,105,4.4,41.6,3
+1108,Illinois CD 8. Southwest,9.888888889,111,5.2,44.6,3
+1109,Illinois CD 9. Southeast,9.944444444,112,5.2,44.7,3
+1201,Indiana CD 1. Northwest,4.833333333,100,3.8,36.9,3
+1202,Indiana CD 2. North Central,5.055555556,104,4.5,36.6,3
+1203,Indiana CD 3. Northeast,5.222222222,108,5.1,36.3,3
+1204,Indiana CD 4. West Central,6.888888889,105,4.8,39.6,3
+1205,Indiana CD 5. Central,7,109,5.1,39.5,3
+1206,Indiana CD 6. East Central,6.833333333,112,5.9,38.4,3
+1207,Indiana CD 7. Southwest,9.166666667,111,5.3,43.2,3
+1208,Indiana CD 8. South Central,9,113,5.5,42.7,3
+1209,Indiana CD 9. Southeast,8.944444444,116,6.1,42,3
+1301,Iowa CD 1. Northwest,3,105,5.3,32.1,3
+1302,Iowa CD 2. North Central,3.055555556,111,5.7,31.8,3
+1303,Iowa CD 3. Northeast,3.166666667,108,5.4,32.3,3
+1304,Iowa CD 4. West Central,4.833333333,110,6,34.7,3
+1305,Iowa CD 5. Central,4.944444444,112,6,34.9,3
+1306,Iowa CD 6. East Central,4.833333333,108,5.3,35.4,3
+1307,Iowa CD 7. Southwest,6.333333333,113,6.3,37.1,3
+1308,Iowa CD 8. South Central,6.277777778,111,5.9,37.4,3
+1309,Iowa CD 9. Southeast,5.888888889,106,4.9,37.7,3
+1401,Kansas CD 1. Northwest,7.222222222,112,5.9,39.1,3
+1402,Kansas CD 2. North Central,7.666666667,109,5.2,40.6,3
+1403,Kansas CD 3. Northeast,8.222222222,111,5.6,41.2,3
+1404,Kansas CD 4. West Central,7.944444444,112,5.8,40.5,3
+1405,Kansas CD 5. Central,8.666666667,108,5.3,42.3,3
+1406,Kansas CD 6. East Central,9.333333333,113,5.6,43.2,3
+1407,Kansas CD 7. Southwest,9.277777778,116,5.9,42.8,3
+1408,Kansas CD 8. South Central,9.611111111,107,5,44.3,3
+1409,Kansas CD 9. Southeast,10.66666667,113,5.6,45.6,3
+1501,Kentucky CD 1. Western,11.38888889,112,5.5,47,3
+1502,Kentucky CD 2. Central,10.88888889,115,5.8,45.8,3
+1503,Kentucky CD 3. Blue Grass,9.888888889,117,6.3,43.5,3
+1504,Kentucky CD 4. Eastern,10.66666667,116,6.1,45.1,3
+1601,Louisiana CD 1. Northwest,17.55555556,122,7.2,56.4,3
+1602,Louisiana CD 2. North Central,17.61111111,123,7.5,56.2,3
+1603,Louisiana CD 3. Northeast,17.61111111,122,7,56.7,3
+1604,Louisiana CD 4. West Central,19.05555556,125,8.4,57.9,3
+1605,Louisiana CD 5. Central,19.61111111,124,8.2,59.1,3
+1606,Louisiana CD 6. East Central,20.44444444,126,9.2,59.6,3
+1607,Louisiana CD 7. Southwest,20.66666667,126,8.5,60.7,3
+1608,Louisiana CD 8. South Central,21,126,8.8,61,3
+1609,Louisiana CD 9. Southeast,21.5,127,9.1,61.6,3
+1701,Maine CD 1. North,-3.222222222,99,3.1,23.1,3
+1702,Maine CD 2. South Interior,0.611111111,113,4.5,28.6,3
+1703,Maine CD 3. Coastal,1.888888889,114,4.6,30.8,3
+1801,Maryland CD 1. Southeastern Shore,10.44444444,123,6.7,44.1,3
+1802,Maryland CD 2. Central Eastern Shore,10.44444444,124,6.9,43.9,3
+1803,Maryland CD 3. Lower Southern,10.94444444,123,6.9,44.8,3
+1804,Maryland CD 4. Upper Southern,10.38888889,122,6.7,44,3
+1805,Maryland CD 5. Northeastern Shore,9.611111111,122,6.1,43.2,3
+1806,Maryland CD 6. North Central,9.111111111,122,6.9,41.5,3
+1807,Maryland CD 7. Appalachian Mountains,8.277777778,120,6.5,40.4,3
+1808,Maryland CD 8. Allegheny Plateau,6.5,122,7.6,36.1,3
+1901,Massachusetts CD 1. West,2.777777778,116,5.7,31.3,3
+1902,Massachusetts CD 2. Central,4.722222222,119,6.3,34.2,3
+1903,Massachusetts CD 3. Coastal,5.388888889,119,5.4,36.3,3
+2001,Michigan CD 1. West Upper,-1.5,112,5.5,23.8,3
+2002,Michigan CD 2. East Upper,-1.222222222,114,5.3,24.5,3
+2003,Michigan CD 3. Northwest Lower,1.277777778,117,6.8,27.5,3
+2004,Michigan CD 4. Northeast Lower,0.777777778,116,6.3,27.1,3
+2005,Michigan CD 5. West Central Lower,2.333333333,112,5.5,30.7,3
+2006,Michigan CD 6. Central Lower,2.722222222,116,6.6,30.3,3
+2007,Michigan CD 7. East Central Lower,3.333333333,117,6.8,31.2,3
+2008,Michigan CD 8. Southwest Lower,3.944444444,110,5,34.1,3
+2009,Michigan CD 9. South Central Lower,3.888888889,111,5.6,33.4,3
+2010,Michigan CD 10. Southeast Lower,4.277777778,115,6.3,33.4,3
+2101,Minnesota CD 1. Northwest,-3.666666667,85,3,22.4,3
+2102,Minnesota CD 2. North Central,-2.666666667,99,5.1,22.1,3
+2103,Minnesota CD 3. Northeast,-3.222222222,101,4.7,21.5,3
+2104,Minnesota CD 4. West Central,0.111111111,103,5.5,26.7,3
+2105,Minnesota CD 5. Central,0.777777778,108,6.1,27.3,3
+2106,Minnesota CD 6. East Central,0,109,6,26,3
+2107,Minnesota CD 7. Southwest,1.666666667,105,5.5,29.5,3
+2108,Minnesota CD 8. South Central,2.111111111,106,5.5,30.3,3
+2109,Minnesota CD 9. Southeast,2.055555556,109,5.8,29.9,3
+2201,Mississippi CD 1. Upper Delta,15.38888889,117,6,53.7,3
+2202,Mississippi CD 2. North Central,15.16666667,118,6.5,52.8,3
+2203,Mississippi CD 3. Northeast,15.27777778,121,7.6,51.9,3
+2204,Mississippi CD 4. Lower Delta,16.94444444,119,6.9,55.6,3
+2205,Mississippi CD 5. Central,17.61111111,124,8.6,55.1,3
+2206,Mississippi CD 6. East Central,17.27777778,124,8.6,54.5,3
+2207,Mississippi CD 7. Southwest,19.22222222,125,9,57.6,3
+2208,Mississippi CD 8. South Central,19.38888889,127,9.3,57.6,3
+2209,Mississippi CD 9. Southeast,19.22222222,127,9.5,57.1,3
+2210,Mississippi CD 10. Coastal,20.22222222,127,9.3,59.1,3
+2301,Missouri CD 1. Northwest Prairie,7.777777778,108,5.3,40.7,3
+2302,Missouri CD 2. Northeast Prairie,8,104,4.8,41.6,3
+2303,Missouri CD 3. West Central Plains,9.722222222,113,5.4,44.1,3
+2304,Missouri CD 4. West Ozarks,10.61111111,113,5.5,45.6,3
+2305,Missouri CD 5. East Ozarks,10.16666667,111,5.3,45,3
+2306,Missouri CD 6. Bootheel,11.83333333,113,5.2,48.1,3
+2401,Montana CD 1. Western,-0.388888889,69,1,30.3,3
+2402,Montana CD 2. Southwestern,-1.5,80,2.2,27.1,3
+2403,Montana CD 3. North Central,-1.555555556,63,0.7,28.5,3
+2404,Montana CD 4. Central,-0.333333333,67,1.2,30.2,3
+2405,Montana CD 5. South Central,0.833333333,82,2.5,31,3
+2406,Montana CD 6. Northeastern,-0.333333333,86,4,27.4,3
+2407,Montana CD 7. Southeastern,1.722222222,98,4.3,30.8,3
+2501,Nebraska CD 1. Panhandle,3.944444444,106,4.6,34.5,3
+2502,Nebraska CD 2. North Central,4.444444444,108,5.8,34.2,3
+2503,Nebraska CD 3. Northeast,4.555555556,106,5.5,34.7,3
+2505,Nebraska CD 5. Central,5.333333333,108,5.6,36,3
+2506,Nebraska CD 6. East Central,5.722222222,107,5.3,37,3
+2507,Nebraska CD 7. Southwest,6,109,5.4,37.4,3
+2508,Nebraska CD 8. South Central,6.333333333,103,5.1,38.3,3
+2509,Nebraska CD 9. Southeast,6.722222222,108,5.3,38.8,3
+2601,Nevada CD 1. Northwestern,4.222222222,67,0.1,39.5,3
+2602,Nevada CD 2. Northeastern,2.722222222,89,2.1,34.8,3
+2603,Nevada CD 3. South Central,5.111111111,69,0.8,40.4,3
+2604,Nevada CD 4. Extreme Southern,11.66666667,51,-0.3,53.3,3
+2701,New Hampshire CD 1. North,-0.888888889,114,5.2,25.2,3
+2702,New Hampshire CD 2. South,2.166666667,115,5.3,30.6,3
+2801,New Jersey CD 1. Northern,6.611111111,120,6.9,37,3
+2802,New Jersey CD 2. Southern,8.722222222,122,7,40.7,3
+2803,New Jersey CD 3. Coastal,8.666666667,124,7.2,40.4,3
+2901,New Mexico CD 1. Northwestern Plateau,6.277777778,115,4.4,38.9,3
+2902,New Mexico CD 2. Northern Mountains,5,115,4.7,36.3,3
+2903,New Mexico CD 3. Northeastern Plains,10.11111111,114,5.5,44.7,3
+2904,New Mexico CD 4. Southwestern Mountains,6.055555556,108,3.6,39.3,3
+2905,New Mexico CD 5. Central Valley,10.5,117,4.4,46.5,3
+2906,New Mexico CD 6. Central Highlands,7.611111111,117,4.8,40.9,3
+2907,New Mexico CD 7. Southeastern Plains,12.44444444,118,5.5,48.9,3
+2908,New Mexico CD 8. Southern Desert,11.94444444,108,3.5,50,3
+3001,New York CD 1. Western Plateau,3.722222222,118,7,31.7,3
+3002,New York CD 2. Eastern Plateau,2.944444444,115,6.2,31.1,3
+3003,New York CD 3. Northern Plateau,-0.333333333,113,5.8,25.6,3
+3004,New York CD 4. Coastal,7.166666667,121,6.8,38.1,3
+3005,New York CD 5. Hudson Valley,4.833333333,119,6.6,34.1,3
+3006,New York CD 6. Mohawk Valley,2.333333333,115,5.9,30.3,3
+3007,New York CD 7. Champlain Valley,1,114,6.2,27.6,3
+3008,New York CD 8. St. Lawrence Valley,1.388888889,118,7.6,26.9,3
+3009,New York CD 9. Great Lakes,3.833333333,119,7.4,31.5,3
+3010,New York CD 10. Central Lakes,3.777777778,118,6.9,31.9,3
+3101,North Carolina CD 1. Southern Mountains,10.94444444,123,6.8,44.9,3
+3102,North Carolina CD 2. Northern Mountains,10.94444444,124,7.3,44.4,3
+3103,North Carolina CD 3. Northern Piedmont,12.72222222,123,6.8,48.1,3
+3104,North Carolina CD 4. Central Piedmont,13.5,124,7.1,49.2,3
+3105,North Carolina CD 5. Southern Piedmont,14.33333333,123,7.2,50.6,3
+3106,North Carolina CD 6. Southern Coastal Plain,14.83333333,122,6,52.7,3
+3107,North Carolina CD 7. Central Coastal Plain,14.22222222,121,5.9,51.7,3
+3108,North Carolina CD 8. Northern Coastal Plain,13.5,123,6.6,49.7,3
+3201,North Dakota CD 1. Northwest,-1.166666667,100,6.2,23.7,3
+3202,North Dakota CD 2. North Central,-2,99,6,22.4,3
+3203,North Dakota CD 3. Northeast,-3.944444444,90,3.3,21.6,3
+3204,North Dakota CD 4. West Central,0.055555556,101,5.9,26.2,3
+3205,North Dakota CD 5. Central,-1.611111111,95,4.9,24.2,3
+3206,North Dakota CD 6. East Central,-2.722222222,87,2.3,24.8,3
+3207,North Dakota CD 7. Southwest,0.666666667,100,5.5,27.7,3
+3208,North Dakota CD 8. South Central,0.5,104,6.3,26.6,3
+3209,North Dakota CD 9. Southeast,-1.111111111,93,3.6,26.4,3
+3301,Ohio CD 1. Northwest,5.666666667,111,5.4,36.8,3
+3302,Ohio CD 2. North Central,5.888888889,113,5.8,36.8,3
+3303,Ohio CD 3. Northeast,5.888888889,117,7.4,35.2,3
+3304,Ohio CD 4. West Central,6.666666667,112,5.9,38.1,3
+3305,Ohio CD 5. Central,7.333333333,116,6.1,39.1,3
+3306,Ohio CD 6. Central Hills,6.277777778,114,6.3,37,3
+3307,Ohio CD 7. Northeast Hills,6.777777778,119,6.9,37.3,3
+3308,Ohio CD 8. Southwest,8.222222222,115,6.2,40.6,3
+3309,Ohio CD 9. South Central,9.055555556,116,6.2,42.1,3
+3310,Ohio CD 10. Southeast,8.055555556,117,6.4,40.1,3
+3401,Oklahoma CD 1. Panhandle,10.5,116,5.9,45,3
+3402,Oklahoma CD 2. North Central,11.38888889,114,5.5,47,3
+3403,Oklahoma CD 3. Northeast,12.66666667,120,6.3,48.5,3
+3404,Oklahoma CD 4. West Central,12.33333333,118,6.1,48.1,3
+3405,Oklahoma CD 5. Central,13.33333333,119,6.2,49.8,3
+3406,Oklahoma CD 6. East Central,14,118,6.4,50.8,3
+3407,Oklahoma CD 7. Southwest,13.5,113,5.5,50.8,3
+3408,Oklahoma CD 8. South Central,14.88888889,119,6.3,52.5,3
+3409,Oklahoma CD 9. Southeast,14.88888889,120,7.1,51.7,3
+3501,Oregon CD 1. Coastal Area,6.222222222,50,-1,44.2,3
+3502,Oregon CD 2. Willamette Valley,6.111111111,45,-1.1,44.1,3
+3503,Oregon CD 3. Southwestern Valleys,5.222222222,68,-0.3,41.7,3
+3504,Oregon CD 4. Northern Cascades,2.555555556,68,-0.5,37.1,3
+3505,Oregon CD 5. High Plateau,1.333333333,70,0.5,33.9,3
+3506,Oregon CD 6. North Central,4.888888889,60,-0.1,40.9,3
+3507,Oregon CD 7. South Central,2.555555556,73,0.7,35.9,3
+3508,Oregon CD 8. Northeast,2.5,93,1.8,34.7,3
+3509,Oregon CD 9. Southeast,4.388888889,92,2,37.9,3
+3601,Pennsylvania CD 1. Pocono Mountains,4.222222222,118,6.5,33.1,3
+3602,Pennsylvania CD 2. East Central Mountains,5.888888889,119,6.7,35.9,3
+3603,Pennsylvania CD 3. Southeastern Piedmont,7.722222222,120,6.7,39.2,3
+3604,Pennsylvania CD 4. Lower Susquehanna,7.888888889,121,6.8,39.4,3
+3605,Pennsylvania CD 5. Middle Susquehanna,5.833333333,116,5.8,36.7,3
+3606,Pennsylvania CD 6. Upper Susquehanna,3.722222222,116,6.1,32.6,3
+3607,Pennsylvania CD 7. Central Mountains,5,117,6.3,34.7,3
+3608,Pennsylvania CD 8. South Central Mountains,6.777777778,122,7,37.2,3
+3609,Pennsylvania CD 9. Southwest Plateau,6.833333333,119,6.9,37.4,3
+3610,Pennsylvania CD 10. Northwest Plateau,4.888888889,120,7.6,33.2,3
+3701,Rhode Island CD 1. Rhode Island (Entire State),5.888888889,121,6.5,36.1,3
+3801,South Carolina CD 1. Mountain,13.11111111,120,6.1,49.5,3
+3802,South Carolina CD 2. Northwest,14.22222222,122,6.4,51.2,3
+3803,South Carolina CD 3. North Central,14.72222222,123,6.6,51.9,3
+3804,South Carolina CD 4. Northeast,15.61111111,118,5.9,54.2,3
+3805,South Carolina CD 5. West Central,15.88888889,121,7.1,53.5,3
+3806,South Carolina CD 6. Central,16.33333333,122,6.7,54.7,3
+3807,South Carolina CD 7. Southern,17.5,123,7.2,56.3,3
+3901,South Dakota CD 1. Northwest,2.222222222,106,6.2,29.8,3
+3902,South Dakota CD 2. North Central,1,101,5.1,28.7,3
+3903,South Dakota CD 3. Northeast,-0.055555556,96,4.2,27.7,3
+3904,South Dakota CD 4. Black Hills,1.555555556,102,4.3,30.5,3
+3905,South Dakota CD 5. Southwest,3.833333333,105,5.6,33.3,3
+3906,South Dakota CD 6. Central,3.055555556,106,6,31.5,3
+3907,South Dakota CD 7. East Central,1.388888889,100,5,29.5,3
+3908,South Dakota CD 8. South Central,4.333333333,110,6.5,33.3,3
+3909,South Dakota CD 9. Southeast,3.555555556,107,5.9,32.5,3
+4001,Tennessee CD 1. Eastern,12.16666667,120,6.5,47.4,3
+4002,Tennessee CD 2. Cumberland Plateau,12.11111111,118,6.7,47.1,3
+4003,Tennessee CD 3. Middle,12.88888889,115,6.3,48.9,3
+4004,Tennessee CD 4. Western,13.16666667,116,5.9,49.8,3
+4101,Texas CD 1. High Plains,12.33333333,116,5.7,48.5,3
+4102,Texas CD 2. Low Rolling Plains,14.66666667,115,5.6,52.8,3
+4103,Texas CD 3. North Central,16.83333333,122,6.9,55.4,3
+4104,Texas CD 4. East Texas,18.38888889,125,7.7,57.4,3
+4105,Texas CD 5. Trans Pecos,16.05555556,123,5.7,55.2,3
+4106,Texas CD 6. Edwards Plateau,17.77777778,124,6.5,57.5,3
+4107,Texas CD 7. South Central,21.05555556,126,8.4,61.5,3
+4108,Texas CD 8. Upper Coast,21.5,127,9.4,61.3,3
+4109,Texas CD 9. South,22.61111111,126,7.6,65.1,3
+4110,Texas CD 10. Lower Valley,24.55555556,127,7.8,68.4,3
+4201,Utah CD 1. Western,5.666666667,98,2.9,39.3,3
+4202,Utah CD 2. Dixie,9.333333333,75,0.7,48.1,3
+4203,Utah CD 3. North Central,5.111111111,107,3.9,37.3,3
+4204,Utah CD 4. South Central,3.555555556,96,2.9,35.5,3
+4205,Utah CD 5. Northern Mountains,0.666666667,104,4.1,29.1,3
+4206,Utah CD 6. Uinta Basin,4.222222222,110,4.8,34.8,3
+4207,Utah CD 7. Southeast,7.222222222,104,3.7,41.3,3
+4301,Vermont CD 1. Northeastern,-0.333333333,112,5.6,25.8,3
+4302,Vermont CD 2. Western,1.222222222,115,6.1,28.1,3
+4303,Vermont CD 3. Southeastern,1.555555556,116,5.9,28.9,3
+4401,Virginia CD 1. Tidewater,12.33333333,124,6.8,47.4,3
+4402,Virginia CD 2. Eastern Piedmont,11.83333333,123,6.9,46.4,3
+4403,Virginia CD 3. Western Piedmont,11.66666667,124,7.5,45.5,3
+4404,Virginia CD 4. Northern,9.722222222,122,7,42.5,3
+4405,Virginia CD 5. Central Mountain,9.333333333,121,6.7,42.1,3
+4406,Virginia CD 6. Southwestern Mountain,9.666666667,120,6.6,42.8,3
+4501,Washington CD 1. West Olympic Coast,4.388888889,30,-1.6,41.5,3
+4502,Washington CD 2. North East Olympic San Juan,6,40,-0.9,43.7,3
+4503,Washington CD 3. Puget Sound Lowlands,5.833333333,31,-1.4,43.9,3
+4504,Washington CD 4. East Olympic Cascade Foothills,4.222222222,43,-1.1,40.7,3
+4505,Washington CD 5. Cascade Mountains West,1.333333333,70,0,34.4,3
+4506,Washington CD 6. East Slope Cascades,1,76,0.5,33.3,3
+4507,Washington CD 7. Okanogan Big Bend,3.722222222,72,0.3,38.4,3
+4508,Washington CD 8. Central Basin,5.833333333,66,0,42.5,3
+4509,Washington CD 9. Northeastern,1.388888889,57,-0.2,34.7,3
+4510,Washington CD 10. Palouse Blue Mountains,4.333333333,64,0.3,39.5,3
+4601,West Virginia CD 1. Northwestern,8.388888889,118,6.4,40.7,3
+4602,West Virginia CD 2. North Central,8.888888889,118,6.8,41.2,3
+4603,West Virginia CD 3. Southwestern,10.11111111,117,6.2,44,3
+4604,West Virginia CD 4. Central,7.666666667,120,7.2,38.6,3
+4605,West Virginia CD 5. Southern,9.333333333,119,6.7,42.1,3
+4606,West Virginia CD 6. Northeastern,8.388888889,120,6.4,40.7,3
+4701,Wisconsin CD 1. Northwest,-0.055555556,110,6.1,25.8,3
+4702,Wisconsin CD 2. North Central,-0.5,110,5.9,25.2,3
+4703,Wisconsin CD 3. Northeast,0.166666667,113,6.2,26.1,3
+4704,Wisconsin CD 4. West Central,2.166666667,113,6.6,29.3,3
+4705,Wisconsin CD 5. Central,2.055555556,115,6.4,29.3,3
+4706,Wisconsin CD 6. East Central,1.833333333,114,5.8,29.5,3
+4707,Wisconsin CD 7. Southwest,3.222222222,112,5.7,32.1,3
+4708,Wisconsin CD 8. South Central,3.222222222,111,5.5,32.3,3
+4709,Wisconsin CD 9. Southeast,3.333333333,110,5.4,32.6,3
+4801,Wyoming CD 1. Yellowstone Drainage,-2.111111111,104,3.9,24.3,3
+4802,Wyoming CD 2. Snake Drainage,-2.333333333,109,4.2,23.6,3
+4803,Wyoming CD 3. Green and Bear Drainage,-0.777777778,99,3.6,27,3
+4804,Wyoming CD 4. Big Horn,1,100,3.6,30.2,3
+4805,"Wyoming CD 5. Powder, Little Mo and Tongue Drainages",1.444444444,99,3.5,31.1,3
+4806,Wyoming CD 6. Belle Fourche Drainage,1.277777778,98,3.7,30.6,3
+4807,Wyoming CD 7. Cheyenne Niobrara Drainage,2.166666667,98,3.8,32.1,3
+4808,Wyoming CD 8. Lower Platte,2.611111111,106,4.6,32.1,3
+4809,Wyoming CD 9. Wind River,-0.055555556,89,2.9,29,3
+4810,Wyoming CD 10. Upper Platte,0.277777778,105,4.5,28,3
+101,Alabama CD 1. Northern Valley,14.27777778,26,-2.1,59.8,4
+102,Alabama CD 2. Appalachian Mountain,14.55555556,25,-1.9,60.1,4
+103,Alabama CD 3. Upper Plains,15.83333333,34,-1.5,62,4
+104,Alabama CD 4. Eastern Valley,15.22222222,33,-1.6,61,4
+105,Alabama CD 5. Piedmont Plateau,15.66666667,41,-1.3,61.5,4
+106,Alabama CD 6. Prairie,17.22222222,48,-0.8,63.8,4
+107,Alabama CD 7. Coastal Plain,18.44444444,71,0.3,64.9,4
+108,Alabama CD 8. Gulf,19.77777778,93,1.3,66.3,4
+201,Arizona CD 1. Northwest,15.77777778,93,2.1,58.3,4
+202,Arizona CD 2. Northeast,10.94444444,108,2.9,48.8,4
+203,Arizona CD 3. North Central,14.11111111,93,2.5,54.9,4
+204,Arizona CD 4. East Central,14.94444444,107,3.5,55.4,4
+205,Arizona CD 5. Southwest,21.33333333,94,2.3,68.1,4
+206,Arizona CD 6. South Central,20.22222222,98,2.6,65.8,4
+207,Arizona CD 7. Southeast,16.77777778,98,2.4,59.8,4
+301,Arkansas CD 1. Northwest,12.77777778,29,-1.9,56.9,4
+302,Arkansas CD 2. North Central,13.16666667,24,-2,57.7,4
+303,Arkansas CD 3. Northeast,14.27777778,26,-1.9,59.6,4
+304,Arkansas CD 4. West Central,14.38888889,30,-1.8,59.7,4
+305,Arkansas CD 5. Central,15.11111111,25,-2,61.2,4
+306,Arkansas CD 6. East Central,15.33333333,22,-2,61.6,4
+307,Arkansas CD 7. Southwest,15.77777778,33,-1.4,61.8,4
+308,Arkansas CD 8. South Central,16.44444444,41,-1.1,62.7,4
+309,Arkansas CD 9. Southeast,16.33333333,34,-1.5,62.9,4
+401,California CD 1. North Coast Drainage,11.05555556,117,3.8,48.1,4
+402,California CD 2. Sacramento Drainage,12.05555556,107,3.3,50.4,4
+403,California CD 3. Northeast Interior Basins,6.777777778,104,2.9,41.3,4
+404,California CD 4. Central Coast Drainage,13.77777778,107,2.8,54,4
+405,California CD 5. San Joaquin Drainage,13,99,2.3,53.1,4
+406,California CD 6. South Coast Drainage,14.27777778,102,2.7,55,4
+407,California CD 7. Southeast Desert Basins,17.11111111,83,1.6,61.2,4
+501,Colorado CD 1. Arkansas Drainage,8.444444444,58,0.3,46.9,4
+502,Colorado CD 2. Colorado Drainage,5.166666667,94,2.1,39.2,4
+503,Colorado CD 3. Kansas Drainage,8.111111111,43,-1.1,47.7,4
+504,Colorado CD 4. Platte Drainage,5.333333333,46,-0.5,42.1,4
+505,Colorado CD 5. Rio Grande Drainage,4.833333333,112,3.4,37.3,4
+601,Connecticut CD 1. Northwest,5.944444444,31,-1.7,44.4,4
+602,Connecticut CD 2. Central,7,34,-1.6,46.2,4
+603,Connecticut CD 3. Coastal,7.777777778,41,-1,47,4
+701,Delaware CD 1. Northern,10,28,-1.5,51.5,4
+702,Delaware CD 2. Southern,11.33333333,66,0.2,52.2,4
+801,Florida CD 1. Northwest,20.33333333,101,2.1,66.5,4
+802,Florida CD 2. North,21.33333333,112,3.1,67.3,4
+803,Florida CD 3. North Central,23.11111111,121,4.1,69.5,4
+804,Florida CD 4. South Central,23.88888889,122,4.2,70.8,4
+805,Florida CD 5. Everglades and Southwest Coast,25.38888889,124,5.3,72.4,4
+806,Florida CD 6. Lower East Coast,26.05555556,126,6,72.9,4
+807,Florida CD 7. Keys,27.22222222,126,6.1,74.9,4
+901,Georgia CD 1. Northwest,14.44444444,28,-1.5,59.5,4
+902,Georgia CD 2. North Central,14,34,-1.3,58.5,4
+903,Georgia CD 3. Northeast,15.22222222,55,-0.4,59.8,4
+904,Georgia CD 4. West Central,16.11111111,50,-0.7,61.7,4
+905,Georgia CD 5. Central,17.33333333,63,0.1,63.1,4
+906,Georgia CD 6. East Central,17.83333333,71,0.5,63.6,4
+907,Georgia CD 7. Southwest,18.83333333,76,0.5,65.4,4
+908,Georgia CD 8. South Central,18.83333333,77,0.6,65.3,4
+909,Georgia CD 9. Southeast,19.66666667,98,1.6,65.8,4
+1001,Idaho CD 1. Panhandle,5.222222222,57,-0.4,41.8,4
+1002,Idaho CD 2. North Central Prairies,6.555555556,76,0.5,43.3,4
+1003,Idaho CD 3. North Central Canyons,8.111111111,75,0.5,46.1,4
+1004,Idaho CD 4. Central Mountains,3.777777778,75,0.8,38,4
+1005,Idaho CD 5. Southwestern Valleys,9.888888889,80,0.8,49,4
+1006,Idaho CD 6. Southwestern Highlands,6.833333333,74,1,43.3,4
+1007,Idaho CD 7. Central Plains,8.333333333,84,1.6,45.4,4
+1008,Idaho CD 8. Northeastern Valleys,2.888888889,70,0.6,36.6,4
+1009,Idaho CD 9. Upper Snake River Plains,5.888888889,68,0.3,42.3,4
+1010,Idaho CD 10. Eastern Highlands,4.5,67,0.4,39.7,4
+1101,Illinois CD 1. Northwest,8.277777778,36,-1.4,48.3,4
+1102,Illinois CD 2. Northeast,8,35,-1.4,47.8,4
+1103,Illinois CD 3. West,9.611111111,30,-2,51.3,4
+1104,Illinois CD 4. Central,9.555555556,36,-1.5,50.7,4
+1105,Illinois CD 5. East,8.944444444,33,-1.7,49.8,4
+1106,Illinois CD 6. West Southwest,10.61111111,29,-1.9,53,4
+1107,Illinois CD 7. East Southeast,10.33333333,25,-2.2,52.8,4
+1108,Illinois CD 8. Southwest,11.94444444,26,-1.8,55.3,4
+1109,Illinois CD 9. Southeast,11.66666667,23,-2.4,55.4,4
+1201,Indiana CD 1. Northwest,8,31,-1.8,48.2,4
+1202,Indiana CD 2. North Central,8,33,-1.6,48,4
+1203,Indiana CD 3. Northeast,7.666666667,25,-2,47.8,4
+1204,Indiana CD 4. West Central,9.333333333,29,-2,50.8,4
+1205,Indiana CD 5. Central,9.444444444,32,-1.5,50.5,4
+1206,Indiana CD 6. East Central,9.277777778,42,-0.7,49.4,4
+1207,Indiana CD 7. Southwest,11.16666667,30,-2,54.1,4
+1208,Indiana CD 8. South Central,10.5,23,-2.4,53.3,4
+1209,Indiana CD 9. Southeast,10.72222222,37,-1.3,52.6,4
+1301,Iowa CD 1. Northwest,7,35,-1.8,46.4,4
+1302,Iowa CD 2. North Central,7,38,-1.4,46,4
+1303,Iowa CD 3. Northeast,6.888888889,35,-1.9,46.3,4
+1304,Iowa CD 4. West Central,8.5,43,-1,48.3,4
+1305,Iowa CD 5. Central,8.388888889,41,-1.2,48.3,4
+1306,Iowa CD 6. East Central,8.277777778,33,-1.6,48.5,4
+1307,Iowa CD 7. Southwest,9.555555556,50,-0.8,50,4
+1308,Iowa CD 8. South Central,9.333333333,40,-1.2,50,4
+1309,Iowa CD 9. Southeast,9.055555556,27,-2.1,50.4,4
+1401,Kansas CD 1. Northwest,9.666666667,47,-0.7,50.1,4
+1402,Kansas CD 2. North Central,10.83333333,46,-0.8,52.3,4
+1403,Kansas CD 3. Northeast,11,44,-1.1,52.9,4
+1404,Kansas CD 4. West Central,10.38888889,47,-0.7,51.4,4
+1405,Kansas CD 5. Central,11.5,46,-0.9,53.6,4
+1406,Kansas CD 6. East Central,11.83333333,46,-1,54.3,4
+1407,Kansas CD 7. Southwest,11.61111111,50,-0.6,53.5,4
+1408,Kansas CD 8. South Central,12.44444444,46,-0.8,55.2,4
+1409,Kansas CD 9. Southeast,12.77777778,41,-1.4,56.4,4
+1501,Kentucky CD 1. Western,12.55555556,22,-2.4,57,4
+1502,Kentucky CD 2. Central,11.66666667,20,-2.6,55.6,4
+1503,Kentucky CD 3. Blue Grass,10.77777778,26,-2.2,53.6,4
+1504,Kentucky CD 4. Eastern,11.22222222,21,-2.3,54.5,4
+1601,Louisiana CD 1. Northwest,17.61111111,51,-0.7,64.4,4
+1602,Louisiana CD 2. North Central,17.33333333,48,-0.8,64,4
+1603,Louisiana CD 3. Northeast,17.33333333,34,-1.4,64.6,4
+1604,Louisiana CD 4. West Central,18.55555556,67,0,65.4,4
+1605,Louisiana CD 5. Central,18.83333333,54,-0.6,66.5,4
+1606,Louisiana CD 6. East Central,19.83333333,88,1.2,66.5,4
+1607,Louisiana CD 7. Southwest,20.22222222,78,0.6,67.8,4
+1608,Louisiana CD 8. South Central,20.72222222,91,1.4,67.9,4
+1609,Louisiana CD 9. Southeast,21.38888889,102,2.3,68.2,4
+1701,Maine CD 1. North,1.944444444,48,-0.7,36.2,4
+1702,Maine CD 2. South Interior,4.5,50,-0.4,40.5,4
+1703,Maine CD 3. Coastal,4.944444444,52,-0.3,41.2,4
+1801,Maryland CD 1. Southeastern Shore,12.27777778,77,1,53.1,4
+1802,Maryland CD 2. Central Eastern Shore,12.05555556,65,0.3,53.4,4
+1803,Maryland CD 3. Lower Southern,12.38888889,63,0.1,54.2,4
+1804,Maryland CD 4. Upper Southern,11.88888889,55,-0.3,53.7,4
+1805,Maryland CD 5. Northeastern Shore,10.88888889,35,-1.3,52.9,4
+1806,Maryland CD 6. North Central,10.33333333,47,-0.9,51.5,4
+1807,Maryland CD 7. Appalachian Mountains,9.5,30,-1.6,50.7,4
+1808,Maryland CD 8. Allegheny Plateau,7.111111111,36,-1.3,46.1,4
+1901,Massachusetts CD 1. West,5.111111111,34,-1.7,42.9,4
+1902,Massachusetts CD 2. Central,6.444444444,34,-1.5,45.1,4
+1903,Massachusetts CD 3. Coastal,6.444444444,28,-1.7,45.3,4
+2001,Michigan CD 1. West Upper,1.722222222,28,-2.6,37.7,4
+2002,Michigan CD 2. East Upper,1.944444444,26,-2.3,37.8,4
+2003,Michigan CD 3. Northwest Lower,3.888888889,37,-1.5,40.5,4
+2004,Michigan CD 4. Northeast Lower,3.777777778,39,-1.6,40.4,4
+2005,Michigan CD 5. West Central Lower,5.388888889,40,-1.4,43.1,4
+2006,Michigan CD 6. Central Lower,5.611111111,45,-1.2,43.3,4
+2007,Michigan CD 7. East Central Lower,5.944444444,49,-0.9,43.6,4
+2008,Michigan CD 8. Southwest Lower,6.833333333,37,-1.6,45.9,4
+2009,Michigan CD 9. South Central Lower,6.444444444,33,-1.9,45.5,4
+2010,Michigan CD 10. Southeast Lower,6.944444444,45,-0.9,45.4,4
+2101,Minnesota CD 1. Northwest,2.833333333,28,-3,40.1,4
+2102,Minnesota CD 2. North Central,2.666666667,39,-2,38.8,4
+2103,Minnesota CD 3. Northeast,1.555555556,32,-2.1,36.9,4
+2104,Minnesota CD 4. West Central,5.111111111,40,-1.6,42.8,4
+2105,Minnesota CD 5. Central,5.444444444,42,-1.4,43.2,4
+2106,Minnesota CD 6. East Central,4.5,44,-1.5,41.6,4
+2107,Minnesota CD 7. Southwest,5.888888889,36,-1.8,44.4,4
+2108,Minnesota CD 8. South Central,6.277777778,36,-1.9,45.2,4
+2109,Minnesota CD 9. Southeast,6,36,-1.9,44.7,4
+2201,Mississippi CD 1. Upper Delta,15.83333333,25,-2.1,62.6,4
+2202,Mississippi CD 2. North Central,15.11111111,18,-2.6,61.8,4
+2203,Mississippi CD 3. Northeast,15.11111111,30,-1.7,60.9,4
+2204,Mississippi CD 4. Lower Delta,17.22222222,43,-0.9,63.9,4
+2205,Mississippi CD 5. Central,16.44444444,33,-1.4,63,4
+2206,Mississippi CD 6. East Central,16.16666667,34,-1.5,62.6,4
+2207,Mississippi CD 7. Southwest,18.16666667,58,-0.3,65,4
+2208,Mississippi CD 8. South Central,18.44444444,71,0.4,64.8,4
+2209,Mississippi CD 9. Southeast,18.05555556,66,0,64.5,4
+2210,Mississippi CD 10. Coastal,19.38888889,89,1,65.9,4
+2301,Missouri CD 1. Northwest Prairie,10.72222222,43,-1.1,52.4,4
+2302,Missouri CD 2. Northeast Prairie,10.94444444,38,-1.4,53.1,4
+2303,Missouri CD 3. West Central Plains,12.11111111,42,-1.2,55,4
+2304,Missouri CD 4. West Ozarks,12.33333333,35,-1.6,55.8,4
+2305,Missouri CD 5. East Ozarks,12,30,-2,55.6,4
+2306,Missouri CD 6. Bootheel,13.61111111,27,-2,58.5,4
+2401,Montana CD 1. Western,3.555555556,56,-0.5,38.9,4
+2402,Montana CD 2. Southwestern,2.277777778,57,0,36.1,4
+2403,Montana CD 3. North Central,3.166666667,25,-3.5,41.2,4
+2404,Montana CD 4. Central,3.333333333,29,-2.7,40.7,4
+2405,Montana CD 5. South Central,3.666666667,29,-2.5,41.1,4
+2406,Montana CD 6. Northeastern,3.722222222,24,-3.6,42.3,4
+2407,Montana CD 7. Southeastern,4.277777778,18,-3.8,43.5,4
+2501,Nebraska CD 1. Panhandle,6.166666667,33,-1.7,44.8,4
+2502,Nebraska CD 2. North Central,7,32,-1.8,46.4,4
+2503,Nebraska CD 3. Northeast,8.055555556,36,-1.7,48.2,4
+2505,Nebraska CD 5. Central,7.888888889,31,-2,48.2,4
+2506,Nebraska CD 6. East Central,9.111111111,38,-1.4,49.8,4
+2507,Nebraska CD 7. Southwest,8.277777778,32,-1.7,48.6,4
+2508,Nebraska CD 8. South Central,9.111111111,37,-1.7,50.1,4
+2509,Nebraska CD 9. Southeast,9.888888889,40,-1.3,51.1,4
+2601,Nevada CD 1. Northwestern,9.166666667,98,2.4,46.1,4
+2602,Nevada CD 2. Northeastern,6.5,87,1.7,42,4
+2603,Nevada CD 3. South Central,10.16666667,93,2.6,47.7,4
+2604,Nevada CD 4. Extreme Southern,17,86,1.6,61,4
+2701,New Hampshire CD 1. North,2.388888889,39,-1.5,37.8,4
+2702,New Hampshire CD 2. South,5.055555556,44,-1,42.1,4
+2801,New Jersey CD 1. Northern,8.277777778,41,-0.9,47.8,4
+2802,New Jersey CD 2. Southern,9.777777778,44,-0.8,50.4,4
+2803,New Jersey CD 3. Coastal,9.666666667,60,0.1,49.3,4
+2901,New Mexico CD 1. Northwestern Plateau,9.833333333,109,2.9,46.8,4
+2902,New Mexico CD 2. Northern Mountains,8.277777778,108,2.7,44.2,4
+2903,New Mexico CD 3. Northeastern Plains,12.44444444,79,0.9,53.5,4
+2904,New Mexico CD 4. Southwestern Mountains,9.777777778,108,3.1,46.5,4
+2905,New Mexico CD 5. Central Valley,14.27777778,112,3.3,54.4,4
+2906,New Mexico CD 6. Central Highlands,10.77777778,108,2.9,48.5,4
+2907,New Mexico CD 7. Southeastern Plains,15.44444444,101,2.3,57.5,4
+2908,New Mexico CD 8. Southern Desert,15.88888889,107,3,57.6,4
+3001,New York CD 1. Western Plateau,5.055555556,30,-2.2,43.3,4
+3002,New York CD 2. Eastern Plateau,4.666666667,24,-2.6,43,4
+3003,New York CD 3. Northern Plateau,3.055555556,43,-1.1,38.6,4
+3004,New York CD 4. Coastal,8.166666667,45,-0.8,47.5,4
+3005,New York CD 5. Hudson Valley,7.055555556,44,-1.1,45.8,4
+3006,New York CD 6. Mohawk Valley,4.888888889,28,-2.2,43,4
+3007,New York CD 7. Champlain Valley,4.111111111,39,-1.4,40.8,4
+3008,New York CD 8. St. Lawrence Valley,4.5,44,-0.8,40.9,4
+3009,New York CD 9. Great Lakes,5.555555556,37,-1.4,43.4,4
+3010,New York CD 10. Central Lakes,5.111111111,27,-2.5,43.7,4
+3101,North Carolina CD 1. Southern Mountains,11.11111111,33,-1.4,53.4,4
+3102,North Carolina CD 2. Northern Mountains,11.44444444,49,-0.5,53.1,4
+3103,North Carolina CD 3. Northern Piedmont,13.66666667,50,-0.5,57.1,4
+3104,North Carolina CD 4. Central Piedmont,14.44444444,57,0,58,4
+3105,North Carolina CD 5. Southern Piedmont,15.38888889,64,0.4,59.3,4
+3106,North Carolina CD 6. Southern Coastal Plain,15.94444444,57,-0.1,60.8,4
+3107,North Carolina CD 7. Central Coastal Plain,15.33333333,53,-0.3,59.9,4
+3108,North Carolina CD 8. Northern Coastal Plain,14.5,58,-0.2,58.3,4
+3201,North Dakota CD 1. Northwest,2.5,28,-4,40.5,4
+3202,North Dakota CD 2. North Central,2.444444444,27,-3.7,40.1,4
+3203,North Dakota CD 3. Northeast,2.166666667,25,-3.6,39.5,4
+3204,North Dakota CD 4. West Central,3.5,24,-3.6,41.9,4
+3205,North Dakota CD 5. Central,3.055555556,25,-3.4,40.9,4
+3206,North Dakota CD 6. East Central,3.222222222,21,-3.8,41.6,4
+3207,North Dakota CD 7. Southwest,3.333333333,19,-4,42,4
+3208,North Dakota CD 8. South Central,3.888888889,24,-3.4,42.4,4
+3209,North Dakota CD 9. Southeast,3.833333333,21,-3.5,42.4,4
+3301,Ohio CD 1. Northwest,8.166666667,36,-1.4,48.1,4
+3302,Ohio CD 2. North Central,7.944444444,33,-1.5,47.8,4
+3303,Ohio CD 3. Northeast,7.111111111,35,-1.4,46.2,4
+3304,Ohio CD 4. West Central,8.777777778,37,-1.3,49.1,4
+3305,Ohio CD 5. Central,8.944444444,29,-1.7,49.8,4
+3306,Ohio CD 6. Central Hills,8,34,-1.4,47.8,4
+3307,Ohio CD 7. Northeast Hills,8,32,-1.5,47.9,4
+3308,Ohio CD 8. Southwest,9.944444444,35,-1.2,51.1,4
+3309,Ohio CD 9. South Central,10.33333333,31,-1.6,52.2,4
+3310,Ohio CD 10. Southeast,9.444444444,32,-1.5,50.5,4
+3401,Oklahoma CD 1. Panhandle,12.55555556,51,-0.6,55.2,4
+3402,Oklahoma CD 2. North Central,13.66666667,42,-1,57.6,4
+3403,Oklahoma CD 3. Northeast,14.05555556,38,-1.8,59.1,4
+3404,Oklahoma CD 4. West Central,14.16666667,47,-0.9,58.4,4
+3405,Oklahoma CD 5. Central,14.66666667,29,-1.7,60.1,4
+3406,Oklahoma CD 6. East Central,14.83333333,27,-2,60.7,4
+3407,Oklahoma CD 7. Southwest,15.16666667,34,-1.5,60.8,4
+3408,Oklahoma CD 8. South Central,15.22222222,18,-2.7,62.1,4
+3409,Oklahoma CD 9. Southeast,15.22222222,35,-1.5,60.9,4
+3501,Oregon CD 1. Coastal Area,10.11111111,117,2.7,47.5,4
+3502,Oregon CD 2. Willamette Valley,10.33333333,105,2.2,48.4,4
+3503,Oregon CD 3. Southwestern Valleys,9.888888889,119,3.8,46,4
+3504,Oregon CD 4. Northern Cascades,6.666666667,109,2.5,41.5,4
+3505,Oregon CD 5. High Plateau,5.833333333,107,3.1,39.4,4
+3506,Oregon CD 6. North Central,9.555555556,101,2.3,46.9,4
+3507,Oregon CD 7. South Central,6.944444444,103,2.6,41.9,4
+3508,Oregon CD 8. Northeast,6.055555556,95,1.6,41.3,4
+3509,Oregon CD 9. Southeast,8.277777778,94,1.9,45,4
+3601,Pennsylvania CD 1. Pocono Mountains,5.944444444,32,-1.9,44.6,4
+3602,Pennsylvania CD 2. East Central Mountains,7.888888889,38,-0.8,47,4
+3603,Pennsylvania CD 3. Southeastern Piedmont,9.277777778,34,-1,49.7,4
+3604,Pennsylvania CD 4. Lower Susquehanna,9.166666667,32,-1.4,49.9,4
+3605,Pennsylvania CD 5. Middle Susquehanna,7.666666667,26,-2.1,47.9,4
+3606,Pennsylvania CD 6. Upper Susquehanna,5.222222222,20,-2.8,44.2,4
+3607,Pennsylvania CD 7. Central Mountains,6.5,26,-2.2,45.9,4
+3608,Pennsylvania CD 8. South Central Mountains,7.888888889,30,-1.7,47.9,4
+3609,Pennsylvania CD 9. Southwest Plateau,7.777777778,27,-2,48,4
+3610,Pennsylvania CD 10. Northwest Plateau,6.166666667,37,-1.4,44.5,4
+3701,Rhode Island CD 1. Rhode Island (Entire State),6.722222222,28,-1.6,45.7,4
+3801,South Carolina CD 1. Mountain,14.33333333,57,-0.1,57.9,4
+3802,South Carolina CD 2. Northwest,15.5,62,0.1,59.8,4
+3803,South Carolina CD 3. North Central,15.94444444,62,0.2,60.5,4
+3804,South Carolina CD 4. Northeast,16.72222222,59,0.1,62,4
+3805,South Carolina CD 5. West Central,16.72222222,70,0.3,61.8,4
+3806,South Carolina CD 6. Central,17.22222222,64,0.3,62.7,4
+3807,South Carolina CD 7. Southern,18.11111111,79,0.9,63.7,4
+3901,South Dakota CD 1. Northwest,4.444444444,22,-3.4,43.4,4
+3902,South Dakota CD 2. North Central,4.611111111,22,-3.6,43.9,4
+3903,South Dakota CD 3. Northeast,4.666666667,26,-2.8,43.2,4
+3904,South Dakota CD 4. Black Hills,3.444444444,25,-2.6,40.8,4
+3905,South Dakota CD 5. Southwest,5.944444444,28,-2.7,45.4,4
+3906,South Dakota CD 6. Central,6.166666667,26,-2.5,45.6,4
+3907,South Dakota CD 7. East Central,5.666666667,31,-2.2,44.4,4
+3908,South Dakota CD 8. South Central,6.722222222,34,-2.1,46.2,4
+3909,South Dakota CD 9. Southeast,7.055555556,33,-2,46.7,4
+4001,Tennessee CD 1. Eastern,12.33333333,22,-2.1,56.3,4
+4002,Tennessee CD 2. Cumberland Plateau,12.05555556,23,-2.4,56.1,4
+4003,Tennessee CD 3. Middle,13.27777778,25,-2.2,58.1,4
+4004,Tennessee CD 4. Western,13.94444444,24,-2.3,59.4,4
+4101,Texas CD 1. High Plains,14.38888889,63,0,57.9,4
+4102,Texas CD 2. Low Rolling Plains,16.11111111,32,-1.5,62.5,4
+4103,Texas CD 3. North Central,17.16666667,33,-1.4,64.3,4
+4104,Texas CD 4. East Texas,18.05555556,44,-0.8,65.3,4
+4105,Texas CD 5. Trans Pecos,19.05555556,104,2.6,63.7,4
+4106,Texas CD 6. Edwards Plateau,18.94444444,80,0.3,65.8,4
+4107,Texas CD 7. South Central,20.94444444,86,0.8,68.9,4
+4108,Texas CD 8. Upper Coast,21.44444444,103,2.2,68.4,4
+4109,Texas CD 9. South,23.16666667,91,1.1,72.6,4
+4110,Texas CD 10. Lower Valley,25.88888889,119,3.7,74.9,4
+4201,Utah CD 1. Western,9.222222222,84,1.4,47.2,4
+4202,Utah CD 2. Dixie,14.33333333,94,2.2,55.6,4
+4203,Utah CD 3. North Central,8.222222222,77,1.2,45.6,4
+4204,Utah CD 4. South Central,7.388888889,98,2.3,43,4
+4205,Utah CD 5. Northern Mountains,3.833333333,82,1.3,37.6,4
+4206,Utah CD 6. Uinta Basin,7.777777778,86,1.5,44.5,4
+4207,Utah CD 7. Southeast,11.16666667,99,2.3,49.8,4
+4301,Vermont CD 1. Northeastern,3,42,-1.3,38.7,4
+4302,Vermont CD 2. Western,4.277777778,43,-1.2,40.9,4
+4303,Vermont CD 3. Southeastern,4.444444444,44,-0.9,40.9,4
+4401,Virginia CD 1. Tidewater,13.44444444,56,-0.1,56.3,4
+4402,Virginia CD 2. Eastern Piedmont,12.88888889,46,-0.4,55.6,4
+4403,Virginia CD 3. Western Piedmont,12.5,51,-0.3,54.8,4
+4404,Virginia CD 4. Northern,10.83333333,45,-0.7,52.2,4
+4405,Virginia CD 5. Central Mountain,10.22222222,35,-1.1,51.5,4
+4406,Virginia CD 6. Southwestern Mountain,10.16666667,32,-1.5,51.8,4
+4501,Washington CD 1. West Olympic Coast,8.222222222,96,1.3,45.5,4
+4502,Washington CD 2. North East Olympic San Juan,9.833333333,104,1.7,48,4
+4503,Washington CD 3. Puget Sound Lowlands,9.722222222,88,0.9,48.6,4
+4504,Washington CD 4. East Olympic Cascade Foothills,8.222222222,92,1.3,45.5,4
+4505,Washington CD 5. Cascade Mountains West,5.388888889,97,1.6,40.1,4
+4506,Washington CD 6. East Slope Cascades,5.333333333,92,1.5,40.1,4
+4507,Washington CD 7. Okanogan Big Bend,8.166666667,61,-0.2,46.9,4
+4508,Washington CD 8. Central Basin,10.55555556,89,1.2,49.8,4
+4509,Washington CD 9. Northeastern,6,59,-0.2,43,4
+4510,Washington CD 10. Palouse Blue Mountains,8.555555556,87,1.2,46.2,4
+4601,West Virginia CD 1. Northwestern,9.5,28,-1.9,51,4
+4602,West Virginia CD 2. North Central,9.777777778,29,-1.6,51.2,4
+4603,West Virginia CD 3. Southwestern,10.77777778,22,-2.3,53.7,4
+4604,West Virginia CD 4. Central,7.833333333,26,-2.2,48.3,4
+4605,West Virginia CD 5. Southern,9.666666667,22,-2.2,51.6,4
+4606,West Virginia CD 6. Northeastern,9.722222222,37,-1,50.5,4
+4701,Wisconsin CD 1. Northwest,4.055555556,41,-1.7,41,4
+4702,Wisconsin CD 2. North Central,3.222222222,34,-2.3,40.1,4
+4703,Wisconsin CD 3. Northeast,3.333333333,35,-2.3,40.3,4
+4704,Wisconsin CD 4. West Central,5.777777778,34,-1.9,44.3,4
+4705,Wisconsin CD 5. Central,5.388888889,36,-2.1,43.8,4
+4706,Wisconsin CD 6. East Central,5,40,-1.5,42.5,4
+4707,Wisconsin CD 7. Southwest,6.611111111,34,-2,45.9,4
+4708,Wisconsin CD 8. South Central,6.666666667,38,-1.6,45.6,4
+4709,Wisconsin CD 9. Southeast,6.111111111,32,-1.9,44.9,4
+4801,Wyoming CD 1. Yellowstone Drainage,0.333333333,48,-0.7,33.3,4
+4802,Wyoming CD 2. Snake Drainage,0.166666667,52,-0.7,33,4
+4803,Wyoming CD 3. Green and Bear Drainage,2.777777778,60,0,37,4
+4804,Wyoming CD 4. Big Horn,3.333333333,37,-1.8,39.8,4
+4805,"Wyoming CD 5. Powder, Little Mo and Tongue Drainages",3.5,24,-2.9,41.2,4
+4806,Wyoming CD 6. Belle Fourche Drainage,2.888888889,17,-4.2,41.4,4
+4807,Wyoming CD 7. Cheyenne Niobrara Drainage,4,21,-3.3,42.5,4
+4808,Wyoming CD 8. Lower Platte,4.444444444,42,-1.2,41.2,4
+4809,Wyoming CD 9. Wind River,2.888888889,50,-1.1,38.3,4
+4810,Wyoming CD 10. Upper Platte,3.055555556,59,0,37.5,4
+101,Alabama CD 1. Northern Valley,18.94444444,28,-1.9,68,5
+102,Alabama CD 2. Appalachian Mountain,19,25,-2.1,68.3,5
+103,Alabama CD 3. Upper Plains,20.22222222,31,-1.7,70.1,5
+104,Alabama CD 4. Eastern Valley,19.44444444,26,-2.1,69.1,5
+105,Alabama CD 5. Piedmont Plateau,19.5,19,-2.3,69.4,5
+106,Alabama CD 6. Prairie,21,22,-1.9,71.7,5
+107,Alabama CD 7. Coastal Plain,21.72222222,32,-1.4,72.5,5
+108,Alabama CD 8. Gulf,22.55555556,40,-0.7,73.3,5
+201,Arizona CD 1. Northwest,22.27777778,119,5.1,67,5
+202,Arizona CD 2. Northeast,17,123,5.3,57.3,5
+203,Arizona CD 3. North Central,20.38888889,120,5.7,63,5
+204,Arizona CD 4. East Central,21.05555556,125,6.2,63.7,5
+205,Arizona CD 5. Southwest,27.44444444,120,5.6,75.8,5
+206,Arizona CD 6. South Central,26.77777778,121,6.1,74.1,5
+207,Arizona CD 7. Southeast,22.88888889,125,5.4,67.8,5
+301,Arkansas CD 1. Northwest,16.77777778,13,-2.7,64.9,5
+302,Arkansas CD 2. North Central,17.33333333,16,-2.6,65.8,5
+303,Arkansas CD 3. Northeast,19.16666667,28,-1.8,68.3,5
+304,Arkansas CD 4. West Central,18.38888889,13,-2.5,67.6,5
+305,Arkansas CD 5. Central,19.55555556,21,-2,69.2,5
+306,Arkansas CD 6. East Central,20.55555556,42,-1.2,70.2,5
+307,Arkansas CD 7. Southwest,20.22222222,32,-1.3,69.7,5
+308,Arkansas CD 8. South Central,20.5,29,-1.7,70.6,5
+309,Arkansas CD 9. Southeast,21.38888889,52,-0.5,71,5
+401,California CD 1. North Coast Drainage,13.55555556,103,2.6,53.8,5
+402,California CD 2. Sacramento Drainage,15.61111111,99,2.7,57.4,5
+403,California CD 3. Northeast Interior Basins,10.83333333,103,2.8,48.7,5
+404,California CD 4. Central Coast Drainage,17.38888889,121,4.6,58.7,5
+405,California CD 5. San Joaquin Drainage,17.66666667,115,3.8,60,5
+406,California CD 6. South Coast Drainage,18.16666667,121,5.2,59.5,5
+407,California CD 7. Southeast Desert Basins,23.38888889,118,4.9,69.2,5
+501,Colorado CD 1. Arkansas Drainage,15.55555556,118,3.7,56.3,5
+502,Colorado CD 2. Colorado Drainage,11.66666667,123,4.5,48.5,5
+503,Colorado CD 3. Kansas Drainage,15.22222222,84,1.7,57.7,5
+504,Colorado CD 4. Platte Drainage,12.38888889,110,2.9,51.4,5
+505,Colorado CD 5. Rio Grande Drainage,10.55555556,123,4.8,46.2,5
+601,Connecticut CD 1. Northwest,12.83333333,52,-0.4,55.5,5
+602,Connecticut CD 2. Central,13.72222222,53,-0.3,57,5
+603,Connecticut CD 3. Coastal,13.88888889,51,-0.4,57.4,5
+701,Delaware CD 1. Northern,15.44444444,22,-2.1,61.9,5
+702,Delaware CD 2. Southern,16.16666667,40,-1.1,62.2,5
+801,Florida CD 1. Northwest,23.11111111,55,-0.2,73.8,5
+802,Florida CD 2. North,23.5,70,0.3,74,5
+803,Florida CD 3. North Central,24.55555556,85,0.9,75.3,5
+804,Florida CD 4. South Central,24.83333333,81,0.8,75.9,5
+805,Florida CD 5. Everglades and Southwest Coast,25.33333333,92,1.1,76.5,5
+806,Florida CD 6. Lower East Coast,25.66666667,101,1.6,76.6,5
+807,Florida CD 7. Keys,26.77777778,107,2.1,78.1,5
+901,Georgia CD 1. Northwest,18.66666667,25,-2.3,67.9,5
+902,Georgia CD 2. North Central,17.83333333,18,-2.8,66.9,5
+903,Georgia CD 3. Northeast,18.5,14,-2.8,68.1,5
+904,Georgia CD 4. West Central,19.88888889,21,-2,69.8,5
+905,Georgia CD 5. Central,20.77777778,22,-1.9,71.3,5
+906,Georgia CD 6. East Central,21.27777778,35,-1.3,71.6,5
+907,Georgia CD 7. Southwest,22.05555556,26,-1.4,73.1,5
+908,Georgia CD 8. South Central,21.88888889,24,-1.5,72.9,5
+909,Georgia CD 9. Southeast,22.5,45,-0.6,73.1,5
+1001,Idaho CD 1. Panhandle,10.22222222,76,0.8,49.6,5
+1002,Idaho CD 2. North Central Prairies,10.88888889,73,0.8,50.8,5
+1003,Idaho CD 3. North Central Canyons,12.33333333,71,0.7,53.5,5
+1004,Idaho CD 4. Central Mountains,8.388888889,83,1.1,46,5
+1005,Idaho CD 5. Southwestern Valleys,14.5,80,0.9,57.2,5
+1006,Idaho CD 6. Southwestern Highlands,11.38888889,81,1,51.5,5
+1007,Idaho CD 7. Central Plains,13.66666667,100,2.5,54.1,5
+1008,Idaho CD 8. Northeastern Valleys,8.222222222,89,1.7,45.1,5
+1009,Idaho CD 9. Upper Snake River Plains,11.55555556,86,1.5,51.3,5
+1010,Idaho CD 10. Eastern Highlands,10.33333333,92,1.8,48.8,5
+1101,Illinois CD 1. Northwest,14.72222222,47,-1.2,59.7,5
+1102,Illinois CD 2. Northeast,14.72222222,53,-0.4,58.9,5
+1103,Illinois CD 3. West,15.61111111,36,-2.2,62.3,5
+1104,Illinois CD 4. Central,15.72222222,45,-1.3,61.6,5
+1105,Illinois CD 5. East,15.38888889,46,-1.3,61,5
+1106,Illinois CD 6. West Southwest,16.33333333,36,-2.1,63.5,5
+1107,Illinois CD 7. East Southeast,16.27777778,37,-1.9,63.2,5
+1108,Illinois CD 8. Southwest,17.38888889,36,-1.8,65.1,5
+1109,Illinois CD 9. Southeast,17.38888889,38,-1.7,65,5
+1201,Indiana CD 1. Northwest,14.66666667,49,-1.1,59.5,5
+1202,Indiana CD 2. North Central,14.55555556,49,-1.1,59.3,5
+1203,Indiana CD 3. Northeast,14.22222222,44,-1.5,59.1,5
+1204,Indiana CD 4. West Central,15.5,40,-1.7,61.6,5
+1205,Indiana CD 5. Central,15.22222222,39,-1.9,61.3,5
+1206,Indiana CD 6. East Central,14.88888889,40,-1.6,60.4,5
+1207,Indiana CD 7. Southwest,16.94444444,40,-1.6,64.1,5
+1208,Indiana CD 8. South Central,16.05555556,33,-2.2,63.1,5
+1209,Indiana CD 9. Southeast,16.11111111,41,-1.7,62.7,5
+1301,Iowa CD 1. Northwest,13.77777778,41,-1.8,58.6,5
+1302,Iowa CD 2. North Central,13.83333333,48,-1.5,58.4,5
+1303,Iowa CD 3. Northeast,13.44444444,38,-1.8,58,5
+1304,Iowa CD 4. West Central,14.27777778,32,-2.2,59.9,5
+1305,Iowa CD 5. Central,14.33333333,34,-2.3,60.1,5
+1306,Iowa CD 6. East Central,14.22222222,34,-2.3,59.9,5
+1307,Iowa CD 7. Southwest,14.88888889,25,-2.4,61.2,5
+1308,Iowa CD 8. South Central,14.88888889,33,-2.5,61.3,5
+1309,Iowa CD 9. Southeast,14.83333333,29,-2.9,61.6,5
+1401,Kansas CD 1. Northwest,15.11111111,46,-1.1,60.3,5
+1402,Kansas CD 2. North Central,15.83333333,30,-2.1,62.6,5
+1403,Kansas CD 3. Northeast,16.27777778,31,-2,63.3,5
+1404,Kansas CD 4. West Central,16,50,-0.5,61.3,5
+1405,Kansas CD 5. Central,16,20,-2.8,63.6,5
+1406,Kansas CD 6. East Central,16.44444444,24,-2.6,64.2,5
+1407,Kansas CD 7. Southwest,17.77777778,71,0.6,63.4,5
+1408,Kansas CD 8. South Central,17.11111111,25,-2.1,64.9,5
+1409,Kansas CD 9. Southeast,16.88888889,12,-3.2,65.6,5
+1501,Kentucky CD 1. Western,17.94444444,31,-1.9,66.2,5
+1502,Kentucky CD 2. Central,17.16666667,34,-1.8,64.7,5
+1503,Kentucky CD 3. Blue Grass,16.27777778,36,-2,63.3,5
+1504,Kentucky CD 4. Eastern,16,22,-2.7,63.5,5
+1601,Louisiana CD 1. Northwest,22,49,-0.4,72,5
+1602,Louisiana CD 2. North Central,21.55555556,41,-0.8,71.6,5
+1603,Louisiana CD 3. Northeast,21.94444444,42,-0.8,72.3,5
+1604,Louisiana CD 4. West Central,22.11111111,39,-0.9,72.7,5
+1605,Louisiana CD 5. Central,22.16666667,21,-1.7,73.6,5
+1606,Louisiana CD 6. East Central,23,55,-0.1,73.5,5
+1607,Louisiana CD 7. Southwest,23.44444444,47,-0.4,74.6,5
+1608,Louisiana CD 8. South Central,23.66666667,53,-0.1,74.7,5
+1609,Louisiana CD 9. Southeast,24.22222222,79,0.7,74.9,5
+1701,Maine CD 1. North,9.833333333,73,0.5,49.2,5
+1702,Maine CD 2. South Interior,11.72222222,73,0.8,52.3,5
+1703,Maine CD 3. Coastal,11.5,77,0.9,51.8,5
+1801,Maryland CD 1. Southeastern Shore,16.66666667,40,-1,63,5
+1802,Maryland CD 2. Central Eastern Shore,16.66666667,37,-1.4,63.4,5
+1803,Maryland CD 3. Lower Southern,16.72222222,26,-1.9,64,5
+1804,Maryland CD 4. Upper Southern,16.55555556,24,-1.9,63.7,5
+1805,Maryland CD 5. Northeastern Shore,16.16666667,22,-1.9,63,5
+1806,Maryland CD 6. North Central,15.66666667,29,-1.6,61.8,5
+1807,Maryland CD 7. Appalachian Mountains,14.83333333,21,-2.3,61,5
+1808,Maryland CD 8. Allegheny Plateau,12.27777778,26,-2.2,56.3,5
+1901,Massachusetts CD 1. West,12.5,58,0.1,54.4,5
+1902,Massachusetts CD 2. Central,13.77777778,69,0.5,56.3,5
+1903,Massachusetts CD 3. Coastal,13.38888889,67,0.5,55.6,5
+2001,Michigan CD 1. West Upper,10,58,-0.2,50.2,5
+2002,Michigan CD 2. East Upper,9.5,55,-0.5,49.6,5
+2003,Michigan CD 3. Northwest Lower,11,57,-0.2,52,5
+2004,Michigan CD 4. Northeast Lower,10.66666667,48,-0.9,52.1,5
+2005,Michigan CD 5. West Central Lower,12.55555556,61,0.1,54.5,5
+2006,Michigan CD 6. Central Lower,12.61111111,57,-0.3,55,5
+2007,Michigan CD 7. East Central Lower,12.61111111,56,-0.2,54.9,5
+2008,Michigan CD 8. Southwest Lower,13.66666667,55,-0.6,57.2,5
+2009,Michigan CD 9. South Central Lower,13.44444444,51,-0.8,57,5
+2010,Michigan CD 10. Southeast Lower,13.77777778,60,0,56.8,5
+2101,Minnesota CD 1. Northwest,11,44,-1.8,53.6,5
+2102,Minnesota CD 2. North Central,10.94444444,56,-0.2,51.9,5
+2103,Minnesota CD 3. Northeast,10.05555556,68,0.4,49.7,5
+2104,Minnesota CD 4. West Central,12.55555556,44,-1.3,55.9,5
+2105,Minnesota CD 5. Central,13.05555556,56,-0.5,56,5
+2106,Minnesota CD 6. East Central,12.22222222,62,0,54,5
+2107,Minnesota CD 7. Southwest,12.72222222,32,-2.3,57.2,5
+2108,Minnesota CD 8. South Central,13.77777778,50,-1,57.8,5
+2109,Minnesota CD 9. Southeast,13.38888889,59,-0.7,56.8,5
+2201,Mississippi CD 1. Upper Delta,21.22222222,43,-0.9,71.1,5
+2202,Mississippi CD 2. North Central,20.11111111,30,-1.8,70,5
+2203,Mississippi CD 3. Northeast,19.77777778,34,-1.5,69.1,5
+2204,Mississippi CD 4. Lower Delta,22.05555556,57,-0.2,71.9,5
+2205,Mississippi CD 5. Central,20.61111111,27,-1.7,70.8,5
+2206,Mississippi CD 6. East Central,20.44444444,30,-1.7,70.5,5
+2207,Mississippi CD 7. Southwest,22,44,-0.7,72.3,5
+2208,Mississippi CD 8. South Central,21.77777778,38,-0.9,72.1,5
+2209,Mississippi CD 9. Southeast,21.27777778,28,-1.5,71.8,5
+2210,Mississippi CD 10. Coastal,22.16666667,35,-1,72.9,5
+2301,Missouri CD 1. Northwest Prairie,16.11111111,30,-2.1,63.1,5
+2302,Missouri CD 2. Northeast Prairie,16.33333333,35,-2.1,63.5,5
+2303,Missouri CD 3. West Central Plains,16.83333333,26,-2.4,64.7,5
+2304,Missouri CD 4. West Ozarks,16.55555556,20,-2.8,64.6,5
+2305,Missouri CD 5. East Ozarks,17,32,-1.9,64.5,5
+2306,Missouri CD 6. Bootheel,18.66666667,27,-2.2,67.8,5
+2401,Montana CD 1. Western,8.666666667,77,0.7,46.9,5
+2402,Montana CD 2. Southwestern,8.111111111,91,1.8,44.8,5
+2403,Montana CD 3. North Central,10.77777778,73,0.1,51.3,5
+2404,Montana CD 4. Central,9.777777778,65,-0.3,49.9,5
+2405,Montana CD 5. South Central,10.44444444,73,0.4,50.4,5
+2406,Montana CD 6. Northeastern,11.88888889,70,0.1,53.3,5
+2407,Montana CD 7. Southeastern,11.94444444,63,-0.3,53.8,5
+2501,Nebraska CD 1. Panhandle,13.05555556,76,0.7,54.8,5
+2502,Nebraska CD 2. North Central,12.83333333,35,-2.1,57.2,5
+2503,Nebraska CD 3. Northeast,13.88888889,25,-2.6,59.6,5
+2505,Nebraska CD 5. Central,13.5,26,-2.6,58.9,5
+2506,Nebraska CD 6. East Central,14.77777778,28,-2.3,60.9,5
+2507,Nebraska CD 7. Southwest,14.33333333,49,-1.1,58.9,5
+2508,Nebraska CD 8. South Central,14.55555556,30,-2.3,60.5,5
+2509,Nebraska CD 9. Southeast,15.38888889,29,-2.1,61.8,5
+2601,Nevada CD 1. Northwestern,13.88888889,99,2.6,54.4,5
+2602,Nevada CD 2. Northeastern,12.05555556,104,3.2,50.5,5
+2603,Nevada CD 3. South Central,16.16666667,118,5,56.1,5
+2604,Nevada CD 4. Extreme Southern,23.44444444,115,4.5,69.7,5
+2701,New Hampshire CD 1. North,10.38888889,67,0.5,50.2,5
+2702,New Hampshire CD 2. South,12.61111111,73,0.8,53.9,5
+2801,New Jersey CD 1. Northern,14.5,52,-0.3,58.4,5
+2802,New Jersey CD 2. Southern,15.38888889,38,-1.1,60.8,5
+2803,New Jersey CD 3. Coastal,15,53,-0.6,59.6,5
+2901,New Mexico CD 1. Northwestern Plateau,15.94444444,124,4.8,55.9,5
+2902,New Mexico CD 2. Northern Mountains,14.33333333,122,4.8,53,5
+2903,New Mexico CD 3. Northeastern Plains,19.61111111,119,4.7,62.6,5
+2904,New Mexico CD 4. Southwestern Mountains,15.33333333,122,4.6,55,5
+2905,New Mexico CD 5. Central Valley,20.16666667,121,5,63.3,5
+2906,New Mexico CD 6. Central Highlands,16.61111111,122,4.7,57.2,5
+2907,New Mexico CD 7. Southeastern Plains,22,123,5.5,66.1,5
+2908,New Mexico CD 8. Southern Desert,21.83333333,124,5,66.3,5
+3001,New York CD 1. Western Plateau,12.11111111,42,-0.7,54.5,5
+3002,New York CD 2. Eastern Plateau,11.88888889,44,-1,54.4,5
+3003,New York CD 3. Northern Plateau,10.61111111,54,0,51.1,5
+3004,New York CD 4. Coastal,14,45,-0.7,57.9,5
+3005,New York CD 5. Hudson Valley,14,58,0.1,57.1,5
+3006,New York CD 6. Mohawk Valley,12.33333333,47,-0.8,55,5
+3007,New York CD 7. Champlain Valley,11.88888889,61,0.2,53.2,5
+3008,New York CD 8. St. Lawrence Valley,11.94444444,54,0,53.5,5
+3009,New York CD 9. Great Lakes,12.66666667,55,-0.1,54.9,5
+3010,New York CD 10. Central Lakes,12.66666667,48,-0.4,55.2,5
+3101,North Carolina CD 1. Southern Mountains,14.72222222,11,-3.2,61.7,5
+3102,North Carolina CD 2. Northern Mountains,14.66666667,11,-3.4,61.8,5
+3103,North Carolina CD 3. Northern Piedmont,16.94444444,8,-3.4,65.9,5
+3104,North Carolina CD 4. Central Piedmont,17.38888889,7,-3.4,66.7,5
+3105,North Carolina CD 5. Southern Piedmont,18.22222222,11,-3.2,68,5
+3106,North Carolina CD 6. Southern Coastal Plain,19.33333333,17,-2.3,69.1,5
+3107,North Carolina CD 7. Central Coastal Plain,19.05555556,17,-2.2,68.5,5
+3108,North Carolina CD 8. Northern Coastal Plain,18.16666667,17,-2.4,67.1,5
+3201,North Dakota CD 1. Northwest,11.38888889,58,-0.3,52.8,5
+3202,North Dakota CD 2. North Central,11.33333333,57,-0.7,53.1,5
+3203,North Dakota CD 3. Northeast,11.22222222,54,-0.9,53.1,5
+3204,North Dakota CD 4. West Central,11.55555556,55,-1,53.8,5
+3205,North Dakota CD 5. Central,11.11111111,46,-1.6,53.6,5
+3206,North Dakota CD 6. East Central,11.55555556,43,-1.9,54.7,5
+3207,North Dakota CD 7. Southwest,11.33333333,52,-0.9,53.3,5
+3208,North Dakota CD 8. South Central,11.44444444,42,-1.9,54.5,5
+3209,North Dakota CD 9. Southeast,11.66666667,41,-2,55,5
+3301,Ohio CD 1. Northwest,14.77777778,48,-1,59.6,5
+3302,Ohio CD 2. North Central,14.5,49,-1.2,59.3,5
+3303,Ohio CD 3. Northeast,13.83333333,54,-0.4,57.3,5
+3304,Ohio CD 4. West Central,14.88888889,46,-1.4,60.2,5
+3305,Ohio CD 5. Central,14.83333333,38,-2,60.7,5
+3306,Ohio CD 6. Central Hills,14,42,-1.5,58.7,5
+3307,Ohio CD 7. Northeast Hills,14.05555556,43,-1.4,58.7,5
+3308,Ohio CD 8. Southwest,15.33333333,37,-2,61.6,5
+3309,Ohio CD 9. South Central,15.16666667,24,-2.9,62.2,5
+3310,Ohio CD 10. Southeast,14.44444444,25,-2.7,60.7,5
+3401,Oklahoma CD 1. Panhandle,18.83333333,87,1.3,64.6,5
+3402,Oklahoma CD 2. North Central,18.83333333,44,-1.1,67,5
+3403,Oklahoma CD 3. Northeast,18.11111111,11,-3.1,67.7,5
+3404,Oklahoma CD 4. West Central,20.05555556,78,0.7,67.4,5
+3405,Oklahoma CD 5. Central,19.61111111,35,-1.3,68.6,5
+3406,Oklahoma CD 6. East Central,19.27777778,27,-2,68.7,5
+3407,Oklahoma CD 7. Southwest,21.27777778,76,0.8,69.5,5
+3408,Oklahoma CD 8. South Central,20.55555556,35,-1.1,70.1,5
+3409,Oklahoma CD 9. Southeast,19.83333333,39,-1,68.7,5
+3501,Oregon CD 1. Coastal Area,12.61111111,108,2.7,52,5
+3502,Oregon CD 2. Willamette Valley,13.33333333,98,2.3,53.7,5
+3503,Oregon CD 3. Southwestern Valleys,12.61111111,103,2.7,52,5
+3504,Oregon CD 4. Northern Cascades,9.611111111,90,2,47.3,5
+3505,Oregon CD 5. High Plateau,9.166666667,95,2.3,46.2,5
+3506,Oregon CD 6. North Central,12.94444444,85,1.5,53.8,5
+3507,Oregon CD 7. South Central,10.66666667,95,2.2,49,5
+3508,Oregon CD 8. Northeast,10,86,1.6,48.4,5
+3509,Oregon CD 9. Southeast,12.5,86,1.5,53,5
+3601,Pennsylvania CD 1. Pocono Mountains,12.61111111,42,-0.8,55.5,5
+3602,Pennsylvania CD 2. East Central Mountains,13.88888889,49,-0.8,57.8,5
+3603,Pennsylvania CD 3. Southeastern Piedmont,15.11111111,39,-1.1,60.3,5
+3604,Pennsylvania CD 4. Lower Susquehanna,14.83333333,32,-1.7,60.4,5
+3605,Pennsylvania CD 5. Middle Susquehanna,13.88888889,37,-1.7,58.7,5
+3606,Pennsylvania CD 6. Upper Susquehanna,12.27777778,40,-1.1,55.2,5
+3607,Pennsylvania CD 7. Central Mountains,12.55555556,30,-2.3,56.9,5
+3608,Pennsylvania CD 8. South Central Mountains,13.44444444,24,-2.4,58.6,5
+3609,Pennsylvania CD 9. Southwest Plateau,13.44444444,26,-2.3,58.5,5
+3610,Pennsylvania CD 10. Northwest Plateau,12.38888889,40,-1.1,55.4,5
+3701,Rhode Island CD 1. Rhode Island (Entire State),13.66666667,70,0.5,56.1,5
+3801,South Carolina CD 1. Mountain,17.11111111,9,-3.3,66.1,5
+3802,South Carolina CD 2. Northwest,18.33333333,9,-3.4,68.4,5
+3803,South Carolina CD 3. North Central,18.77777778,7,-3.4,69.2,5
+3804,South Carolina CD 4. Northeast,20.11111111,20,-2.3,70.5,5
+3805,South Carolina CD 5. West Central,20,24,-2.3,70.3,5
+3806,South Carolina CD 6. Central,20.61111111,28,-1.9,71,5
+3807,South Carolina CD 7. Southern,21.66666667,42,-0.7,71.7,5
+3901,South Dakota CD 1. Northwest,11.77777778,50,-1,54.2,5
+3902,South Dakota CD 2. North Central,11.72222222,34,-2.5,55.6,5
+3903,South Dakota CD 3. Northeast,12.05555556,42,-1.9,55.6,5
+3904,South Dakota CD 4. Black Hills,10.11111111,57,-0.6,50.8,5
+3905,South Dakota CD 5. Southwest,12.72222222,51,-1,55.9,5
+3906,South Dakota CD 6. Central,12.5,30,-2.5,57,5
+3907,South Dakota CD 7. East Central,12.5,37,-2.1,56.6,5
+3908,South Dakota CD 8. South Central,12.88888889,37,-2,57.2,5
+3909,South Dakota CD 9. Southeast,13.38888889,29,-2.4,58.5,5
+4001,Tennessee CD 1. Eastern,16.66666667,18,-2.9,64.9,5
+4002,Tennessee CD 2. Cumberland Plateau,17,28,-1.8,64.4,5
+4003,Tennessee CD 3. Middle,18.11111111,29,-1.8,66.4,5
+4004,Tennessee CD 4. Western,19.16666667,33,-1.6,68.1,5
+4101,Texas CD 1. High Plains,21.11111111,112,3.1,66.9,5
+4102,Texas CD 2. Low Rolling Plains,22.88888889,105,2.3,70.9,5
+4103,Texas CD 3. North Central,22.72222222,79,0.8,72.1,5
+4104,Texas CD 4. East Texas,22.44444444,51,-0.3,72.7,5
+4105,Texas CD 5. Trans Pecos,24.44444444,119,4.1,71.9,5
+4106,Texas CD 6. Edwards Plateau,24.11111111,104,2.1,73.3,5
+4107,Texas CD 7. South Central,25.22222222,98,2,75.4,5
+4108,Texas CD 8. Upper Coast,25.05555556,104,2,75.1,5
+4109,Texas CD 9. South,26.77777778,96,1.7,78.5,5
+4110,Texas CD 10. Lower Valley,27.66666667,101,2,79.8,5
+4201,Utah CD 1. Western,15.55555556,108,3.7,56.3,5
+4202,Utah CD 2. Dixie,20.88888889,119,5.2,64.4,5
+4203,Utah CD 3. North Central,14.61111111,112,3.7,54.6,5
+4204,Utah CD 4. South Central,13.61111111,121,4.7,51.8,5
+4205,Utah CD 5. Northern Mountains,9.833333333,110,3.3,46.4,5
+4206,Utah CD 6. Uinta Basin,14.5,117,4,54.1,5
+4207,Utah CD 7. Southeast,18.11111111,124,5.2,59.4,5
+4301,Vermont CD 1. Northeastern,10.77777778,59,0.2,51.2,5
+4302,Vermont CD 2. Western,12,67,0.5,53.1,5
+4303,Vermont CD 3. Southeastern,11.94444444,69,0.7,52.8,5
+4401,Virginia CD 1. Tidewater,17.38888889,14,-2.4,65.7,5
+4402,Virginia CD 2. Eastern Piedmont,16.77777778,15,-2.7,64.9,5
+4403,Virginia CD 3. Western Piedmont,16.05555556,15,-3,63.9,5
+4404,Virginia CD 4. Northern,15.55555556,23,-2.1,62.1,5
+4405,Virginia CD 5. Central Mountain,14.33333333,12,-3.2,61,5
+4406,Virginia CD 6. Southwestern Mountain,14.05555556,14,-3.3,60.6,5
+4501,Washington CD 1. West Olympic Coast,11.88888889,115,2.9,50.5,5
+4502,Washington CD 2. North East Olympic San Juan,13.11111111,113,2.6,53,5
+4503,Washington CD 3. Puget Sound Lowlands,13.66666667,109,2.6,54,5
+4504,Washington CD 4. East Olympic Cascade Foothills,11.88888889,101,2.4,51,5
+4505,Washington CD 5. Cascade Mountains West,8.833333333,93,1.9,46,5
+4506,Washington CD 6. East Slope Cascades,9.111111111,84,1.2,47.2,5
+4507,Washington CD 7. Okanogan Big Bend,12.94444444,71,0.5,54.8,5
+4508,Washington CD 8. Central Basin,14.83333333,83,1.2,57.5,5
+4509,Washington CD 9. Northeastern,10.72222222,72,0.4,50.9,5
+4510,Washington CD 10. Palouse Blue Mountains,12.66666667,84,1.4,53.4,5
+4601,West Virginia CD 1. Northwestern,14.55555556,24,-2.8,61,5
+4602,West Virginia CD 2. North Central,14.61111111,24,-2.7,61,5
+4603,West Virginia CD 3. Southwestern,15.77777778,25,-2.6,63,5
+4604,West Virginia CD 4. Central,13,27,-2.4,57.8,5
+4605,West Virginia CD 5. Southern,14.05555556,13,-3.5,60.8,5
+4606,West Virginia CD 6. Northeastern,14.72222222,26,-2.1,60.6,5
+4701,Wisconsin CD 1. Northwest,11.83333333,65,0,53.3,5
+4702,Wisconsin CD 2. North Central,11.16666667,55,-0.5,52.6,5
+4703,Wisconsin CD 3. Northeast,11.16666667,56,-0.4,52.5,5
+4704,Wisconsin CD 4. West Central,13.33333333,60,-0.4,56.4,5
+4705,Wisconsin CD 5. Central,12.88888889,58,-0.5,55.7,5
+4706,Wisconsin CD 6. East Central,12,57,-0.4,54,5
+4707,Wisconsin CD 7. Southwest,13.33333333,41,-1.5,57.5,5
+4708,Wisconsin CD 8. South Central,13.33333333,45,-1.2,57.2,5
+4709,Wisconsin CD 9. Southeast,12.77777778,47,-1.2,56.2,5
+4801,Wyoming CD 1. Yellowstone Drainage,6.833333333,93,1.9,42.4,5
+4802,Wyoming CD 2. Snake Drainage,6.5,86,1.4,42.3,5
+4803,Wyoming CD 3. Green and Bear Drainage,9.166666667,92,1.9,46.6,5
+4804,Wyoming CD 4. Big Horn,10.72222222,96,2.2,49.1,5
+4805,"Wyoming CD 5. Powder, Little Mo and Tongue Drainages",11,79,1,50.8,5
+4806,Wyoming CD 6. Belle Fourche Drainage,10.77777778,67,0.1,51.3,5
+4807,Wyoming CD 7. Cheyenne Niobrara Drainage,11.5,72,0.4,52.3,5
+4808,Wyoming CD 8. Lower Platte,11.77777778,101,2.4,50.8,5
+4809,Wyoming CD 9. Wind River,10.11111111,98,2.2,48,5
+4810,Wyoming CD 10. Upper Platte,10.11111111,106,2.8,47.4,5
+101,Alabama CD 1. Northern Valley,23.94444444,44,-0.5,75.6,6
+102,Alabama CD 2. Appalachian Mountain,23.88888889,42,-0.6,75.6,6
+103,Alabama CD 3. Upper Plains,24.77777778,38,-0.8,77.4,6
+104,Alabama CD 4. Eastern Valley,24.22222222,36,-0.7,76.3,6
+105,Alabama CD 5. Piedmont Plateau,24.16666667,38,-0.8,76.3,6
+106,Alabama CD 6. Prairie,25.44444444,44,-0.7,78.5,6
+107,Alabama CD 7. Coastal Plain,25.83333333,52,-0.3,78.8,6
+108,Alabama CD 8. Gulf,26.38888889,63,0.2,79.3,6
+201,Arizona CD 1. Northwest,25.72222222,85,1.7,76.6,6
+202,Arizona CD 2. Northeast,20.77777778,99,2.6,66.8,6
+203,Arizona CD 3. North Central,23.66666667,96,2.2,72.4,6
+204,Arizona CD 4. East Central,24.38888889,101,2.7,73.2,6
+205,Arizona CD 5. Southwest,30.44444444,94,2.2,84.6,6
+206,Arizona CD 6. South Central,30,97,2.6,83.4,6
+207,Arizona CD 7. Southeast,26.38888889,100,2.3,77.2,6
+301,Arkansas CD 1. Northwest,23.38888889,89,1.2,72.9,6
+302,Arkansas CD 2. North Central,23.33333333,65,0.2,73.8,6
+303,Arkansas CD 3. Northeast,24.88888889,61,0.2,76.6,6
+304,Arkansas CD 4. West Central,24.22222222,69,0.1,75.5,6
+305,Arkansas CD 5. Central,24.61111111,42,-0.7,77,6
+306,Arkansas CD 6. East Central,25.5,53,-0.3,78.2,6
+307,Arkansas CD 7. Southwest,25,49,-0.4,77.4,6
+308,Arkansas CD 8. South Central,25.05555556,32,-1,78.1,6
+309,Arkansas CD 9. Southeast,25.61111111,46,-0.5,78.6,6
+401,California CD 1. North Coast Drainage,17.16666667,108,2.7,60.2,6
+402,California CD 2. Sacramento Drainage,19.66666667,100,2.4,65,6
+403,California CD 3. Northeast Interior Basins,14.33333333,83,1.2,56.6,6
+404,California CD 4. Central Coast Drainage,19.66666667,113,3.3,64.1,6
+405,California CD 5. San Joaquin Drainage,21.05555556,99,2.3,67.6,6
+406,California CD 6. South Coast Drainage,19.94444444,106,2.7,65.2,6
+407,California CD 7. Southeast Desert Basins,26.55555556,87,1.8,78,6
+501,Colorado CD 1. Arkansas Drainage,21.38888889,120,4.3,66.2,6
+502,Colorado CD 2. Colorado Drainage,15.77777778,104,2.9,57.5,6
+503,Colorado CD 3. Kansas Drainage,23.16666667,121,5.8,67.9,6
+504,Colorado CD 4. Platte Drainage,18.33333333,114,4,61,6
+505,Colorado CD 5. Rio Grande Drainage,14.22222222,110,2.9,54.7,6
+601,Connecticut CD 1. Northwest,19.5,118,3.1,64,6
+602,Connecticut CD 2. Central,20.38888889,115,3.1,65.6,6
+603,Connecticut CD 3. Coastal,20.77777778,116,3.1,66.3,6
+701,Delaware CD 1. Northern,22.38888889,97,1.7,70.6,6
+702,Delaware CD 2. Southern,23.38888889,117,3.4,70.7,6
+801,Florida CD 1. Northwest,26.55555556,74,0.4,79.4,6
+802,Florida CD 2. North,26.61111111,94,0.9,79,6
+803,Florida CD 3. North Central,27.44444444,114,1.9,79.5,6
+804,Florida CD 4. South Central,27.61111111,117,2,79.7,6
+805,Florida CD 5. Everglades and Southwest Coast,28.11111111,122,2.5,80.1,6
+806,Florida CD 6. Lower East Coast,28.11111111,121,2.8,79.8,6
+807,Florida CD 7. Keys,29.11111111,123,3.2,81.2,6
+901,Georgia CD 1. Northwest,23.55555556,35,-0.9,75.3,6
+902,Georgia CD 2. North Central,22.72222222,32,-1.1,74,6
+903,Georgia CD 3. Northeast,23.66666667,41,-0.7,75.3,6
+904,Georgia CD 4. West Central,24.33333333,40,-0.8,76.6,6
+905,Georgia CD 5. Central,25.22222222,44,-0.6,78,6
+906,Georgia CD 6. East Central,25.44444444,51,-0.2,78,6
+907,Georgia CD 7. Southwest,25.72222222,38,-0.7,79,6
+908,Georgia CD 8. South Central,25.83333333,50,-0.2,78.7,6
+909,Georgia CD 9. Southeast,26.22222222,67,0.3,78.9,6
+1001,Idaho CD 1. Panhandle,13.33333333,68,0.1,55.9,6
+1002,Idaho CD 2. North Central Prairies,13.44444444,44,-1,57.2,6
+1003,Idaho CD 3. North Central Canyons,15,41,-1.1,60.1,6
+1004,Idaho CD 4. Central Mountains,11.33333333,49,-0.5,52.9,6
+1005,Idaho CD 5. Southwestern Valleys,17.83333333,49,-0.7,64.8,6
+1006,Idaho CD 6. Southwestern Highlands,14.66666667,44,-1,59.4,6
+1007,Idaho CD 7. Central Plains,17.05555556,77,0.8,61.9,6
+1008,Idaho CD 8. Northeastern Valleys,11.44444444,61,0,52.6,6
+1009,Idaho CD 9. Upper Snake River Plains,15.22222222,61,0.1,59.3,6
+1010,Idaho CD 10. Eastern Highlands,13.33333333,49,-0.7,56.7,6
+1101,Illinois CD 1. Northwest,22.33333333,111,3.1,69.1,6
+1102,Illinois CD 2. Northeast,22.11111111,111,3.2,68.6,6
+1103,Illinois CD 3. West,23.16666667,102,2.2,71.5,6
+1104,Illinois CD 4. Central,23.27777778,108,2.9,71,6
+1105,Illinois CD 5. East,22.83333333,100,2.7,70.4,6
+1106,Illinois CD 6. West Southwest,23.77777778,100,2.2,72.6,6
+1107,Illinois CD 7. East Southeast,23.27777778,89,1.5,72.4,6
+1108,Illinois CD 8. Southwest,24.27777778,95,1.8,73.9,6
+1109,Illinois CD 9. Southeast,23.66666667,79,0.8,73.8,6
+1201,Indiana CD 1. Northwest,22.16666667,108,2.8,69.1,6
+1202,Indiana CD 2. North Central,21.77777778,103,2.3,68.9,6
+1203,Indiana CD 3. Northeast,21.27777778,90,1.7,68.6,6
+1204,Indiana CD 4. West Central,22.38888889,89,1.5,70.8,6
+1205,Indiana CD 5. Central,21.94444444,81,1,70.5,6
+1206,Indiana CD 6. East Central,21.83333333,95,1.7,69.6,6
+1207,Indiana CD 7. Southwest,23.44444444,83,1.2,73,6
+1208,Indiana CD 8. South Central,22.38888889,72,0.5,71.8,6
+1209,Indiana CD 9. Southeast,22.44444444,83,1,71.4,6
+1301,Iowa CD 1. Northwest,23.16666667,121,5.6,68.1,6
+1302,Iowa CD 2. North Central,22.22222222,116,4.2,67.8,6
+1303,Iowa CD 3. Northeast,21.16666667,107,2.7,67.4,6
+1304,Iowa CD 4. West Central,23.72222222,121,5.5,69.2,6
+1305,Iowa CD 5. Central,22.72222222,113,3.6,69.3,6
+1306,Iowa CD 6. East Central,22.16666667,107,2.6,69.3,6
+1307,Iowa CD 7. Southwest,24,118,4.7,70.5,6
+1308,Iowa CD 8. South Central,23.11111111,110,3.1,70.5,6
+1309,Iowa CD 9. Southeast,22.66666667,98,2,70.8,6
+1401,Kansas CD 1. Northwest,24.5,118,5.5,70.6,6
+1402,Kansas CD 2. North Central,25.44444444,118,5,72.8,6
+1403,Kansas CD 3. Northeast,24.94444444,116,4.1,72.8,6
+1404,Kansas CD 4. West Central,25,118,5.2,71.8,6
+1405,Kansas CD 5. Central,25.66666667,116,4.3,73.9,6
+1406,Kansas CD 6. East Central,25.22222222,117,4,73.4,6
+1407,Kansas CD 7. Southwest,25.72222222,120,4.7,73.6,6
+1408,Kansas CD 8. South Central,25.88888889,113,3.5,75.1,6
+1409,Kansas CD 9. Southeast,25.44444444,110,3.1,74.7,6
+1501,Kentucky CD 1. Western,23.88888889,68,0.4,74.6,6
+1502,Kentucky CD 2. Central,22.77777778,57,0,73,6
+1503,Kentucky CD 3. Blue Grass,22.22222222,67,0.4,71.6,6
+1504,Kentucky CD 4. Eastern,21.5,51,-0.5,71.2,6
+1601,Louisiana CD 1. Northwest,26.55555556,80,0.6,79.2,6
+1602,Louisiana CD 2. North Central,25.77777778,55,-0.3,78.7,6
+1603,Louisiana CD 3. Northeast,25.66666667,32,-1,79.2,6
+1604,Louisiana CD 4. West Central,26,50,-0.4,79.2,6
+1605,Louisiana CD 5. Central,26.05555556,24,-1.1,80,6
+1606,Louisiana CD 6. East Central,26.55555556,62,0.2,79.6,6
+1607,Louisiana CD 7. Southwest,26.83333333,46,-0.3,80.6,6
+1608,Louisiana CD 8. South Central,26.94444444,69,0.2,80.3,6
+1609,Louisiana CD 9. Southeast,27.33333333,92,0.8,80.4,6
+1701,Maine CD 1. North,16.27777778,113,2.6,58.7,6
+1702,Maine CD 2. South Interior,17.83333333,116,2.7,61.4,6
+1703,Maine CD 3. Coastal,17.5,120,3,60.5,6
+1801,Maryland CD 1. Southeastern Shore,23.44444444,111,2.8,71.4,6
+1802,Maryland CD 2. Central Eastern Shore,23.66666667,112,2.7,71.9,6
+1803,Maryland CD 3. Lower Southern,23.77777778,112,2.4,72.4,6
+1804,Maryland CD 4. Upper Southern,23.55555556,110,2.3,72.1,6
+1805,Maryland CD 5. Northeastern Shore,23.16666667,107,2.1,71.6,6
+1806,Maryland CD 6. North Central,22.27777778,104,1.9,70.2,6
+1807,Maryland CD 7. Appalachian Mountains,21.22222222,83,1,69.2,6
+1808,Maryland CD 8. Allegheny Plateau,18.16666667,70,0.7,64,6
+1901,Massachusetts CD 1. West,18.33333333,110,2.4,62.6,6
+1902,Massachusetts CD 2. Central,20.11111111,119,3.3,64.9,6
+1903,Massachusetts CD 3. Coastal,19.88888889,116,3.3,64.5,6
+2001,Michigan CD 1. West Upper,17,109,2.9,59.7,6
+2002,Michigan CD 2. East Upper,16.33333333,103,2.2,59.2,6
+2003,Michigan CD 3. Northwest Lower,18.16666667,108,2.8,61.9,6
+2004,Michigan CD 4. Northeast Lower,18,103,2.3,62.1,6
+2005,Michigan CD 5. West Central Lower,18.88888889,91,2,64,6
+2006,Michigan CD 6. Central Lower,19.44444444,103,2.3,64.7,6
+2007,Michigan CD 7. East Central Lower,19.83333333,105,2.8,64.9,6
+2008,Michigan CD 8. Southwest Lower,20.77777778,102,2.6,66.8,6
+2009,Michigan CD 9. South Central Lower,20.33333333,92,1.9,66.7,6
+2010,Michigan CD 10. Southeast Lower,20.77777778,105,2.8,66.6,6
+2101,Minnesota CD 1. Northwest,19.5,112,4,63.1,6
+2102,Minnesota CD 2. North Central,18.05555556,104,3,61.5,6
+2103,Minnesota CD 3. Northeast,16.77777778,111,3.1,59.1,6
+2104,Minnesota CD 4. West Central,21.55555556,123,5.4,65.4,6
+2105,Minnesota CD 5. Central,21.11111111,120,4.4,65.6,6
+2106,Minnesota CD 6. East Central,19.55555556,116,3.8,63.4,6
+2107,Minnesota CD 7. Southwest,22.22222222,120,5.3,66.7,6
+2108,Minnesota CD 8. South Central,22.11111111,118,4.4,67.4,6
+2109,Minnesota CD 9. Southeast,20.83333333,113,3.2,66.3,6
+2201,Mississippi CD 1. Upper Delta,25.77777778,53,-0.3,78.7,6
+2202,Mississippi CD 2. North Central,24.88888889,38,-0.8,77.6,6
+2203,Mississippi CD 3. Northeast,24.77777778,57,-0.2,76.8,6
+2204,Mississippi CD 4. Lower Delta,26.11111111,55,-0.2,79.2,6
+2205,Mississippi CD 5. Central,25.38888889,54,-0.2,77.9,6
+2206,Mississippi CD 6. East Central,25.38888889,60,-0.1,77.8,6
+2207,Mississippi CD 7. Southwest,25.66666667,39,-0.7,78.9,6
+2208,Mississippi CD 8. South Central,26,67,0.1,78.7,6
+2209,Mississippi CD 9. Southeast,25.88888889,58,0.1,78.5,6
+2210,Mississippi CD 10. Coastal,26.11111111,53,0.1,78.9,6
+2301,Missouri CD 1. Northwest Prairie,24.11111111,109,3.1,72.3,6
+2302,Missouri CD 2. Northeast Prairie,23.61111111,96,2,72.5,6
+2303,Missouri CD 3. West Central Plains,24.44444444,106,2.5,73.5,6
+2304,Missouri CD 4. West Ozarks,23.94444444,98,2.1,73,6
+2305,Missouri CD 5. East Ozarks,23.38888889,88,1.3,72.8,6
+2306,Missouri CD 6. Bootheel,24.72222222,62,0.2,76.3,6
+2401,Montana CD 1. Western,12.11111111,67,0.2,53.6,6
+2402,Montana CD 2. Southwestern,11.44444444,71,0.4,52.2,6
+2403,Montana CD 3. North Central,15.61111111,85,1,59.1,6
+2404,Montana CD 4. Central,14.44444444,76,0.3,57.7,6
+2405,Montana CD 5. South Central,15.66666667,89,1.5,58.7,6
+2406,Montana CD 6. Northeastern,17.66666667,88,1.7,62.1,6
+2407,Montana CD 7. Southeastern,18.72222222,102,2.6,63.1,6
+2501,Nebraska CD 1. Panhandle,21,115,5.1,64.7,6
+2502,Nebraska CD 2. North Central,22.22222222,118,5,67,6
+2503,Nebraska CD 3. Northeast,23.88888889,123,5.6,69.4,6
+2505,Nebraska CD 5. Central,23.38888889,118,5.2,68.9,6
+2506,Nebraska CD 6. East Central,24.61111111,120,5.6,70.7,6
+2507,Nebraska CD 7. Southwest,23.77777778,120,5.8,69,6
+2508,Nebraska CD 8. South Central,24.38888889,118,5.2,70.7,6
+2509,Nebraska CD 9. Southeast,24.61111111,116,4.6,71.7,6
+2601,Nevada CD 1. Northwestern,17.55555556,76,0.9,62.7,6
+2602,Nevada CD 2. Northeastern,15.22222222,63,0.2,59.2,6
+2603,Nevada CD 3. South Central,19.66666667,85,2,65.4,6
+2604,Nevada CD 4. Extreme Southern,27.11111111,81,1.6,79.2,6
+2701,New Hampshire CD 1. North,16.11111111,105,1.7,59.3,6
+2702,New Hampshire CD 2. South,18.55555556,117,2.8,62.6,6
+2801,New Jersey CD 1. Northern,20.94444444,114,2.7,67,6
+2802,New Jersey CD 2. Southern,22.55555556,117,3,69.6,6
+2803,New Jersey CD 3. Coastal,22.33333333,121,3.7,68.5,6
+2901,New Mexico CD 1. Northwestern Plateau,20.44444444,112,3.3,65.5,6
+2902,New Mexico CD 2. Northern Mountains,18.38888889,109,3.1,62,6
+2903,New Mexico CD 3. Northeastern Plains,24.5,116,4.4,71.7,6
+2904,New Mexico CD 4. Southwestern Mountains,19,101,2.1,64.1,6
+2905,New Mexico CD 5. Central Valley,23.66666667,98,2.2,72.4,6
+2906,New Mexico CD 6. Central Highlands,20.61111111,106,3.1,66,6
+2907,New Mexico CD 7. Southeastern Plains,26.05555556,117,4.4,74.5,6
+2908,New Mexico CD 8. Southern Desert,25.44444444,104,2.4,75.4,6
+3001,New York CD 1. Western Plateau,18.16666667,90,1.4,63.3,6
+3002,New York CD 2. Eastern Plateau,17.66666667,77,0.8,63,6
+3003,New York CD 3. Northern Plateau,16.33333333,97,1.4,60,6
+3004,New York CD 4. Coastal,21.33333333,119,3.3,67.1,6
+3005,New York CD 5. Hudson Valley,20.27777778,114,2.7,65.8,6
+3006,New York CD 6. Mohawk Valley,18.38888889,92,1.2,63.9,6
+3007,New York CD 7. Champlain Valley,17.66666667,99,1.5,62.3,6
+3008,New York CD 8. St. Lawrence Valley,18.5,112,2.6,62.7,6
+3009,New York CD 9. Great Lakes,19.22222222,105,2.2,64.4,6
+3010,New York CD 10. Central Lakes,19.05555556,98,1.8,64.5,6
+3101,North Carolina CD 1. Southern Mountains,19.88888889,36,-0.6,68.4,6
+3102,North Carolina CD 2. Northern Mountains,20.38888889,51,-0.3,69,6
+3103,North Carolina CD 3. Northern Piedmont,23,46,-0.1,73.5,6
+3104,North Carolina CD 4. Central Piedmont,23.22222222,48,-0.3,74.1,6
+3105,North Carolina CD 5. Southern Piedmont,23.72222222,42,-0.5,75.2,6
+3106,North Carolina CD 6. Southern Coastal Plain,24.16666667,42,-0.4,75.9,6
+3107,North Carolina CD 7. Central Coastal Plain,24.11111111,47,-0.1,75.5,6
+3108,North Carolina CD 8. Northern Coastal Plain,23.77777778,60,0.3,74.5,6
+3201,North Dakota CD 1. Northwest,18.05555556,108,2.7,61.8,6
+3202,North Dakota CD 2. North Central,19.05555556,111,4.1,62.2,6
+3203,North Dakota CD 3. Northeast,19.5,117,4.7,62.4,6
+3204,North Dakota CD 4. West Central,18.94444444,108,3.3,62.8,6
+3205,North Dakota CD 5. Central,19.88888889,119,4.8,63,6
+3206,North Dakota CD 6. East Central,20.72222222,124,5.2,64.1,6
+3207,North Dakota CD 7. Southwest,18.77777778,109,3.2,62.6,6
+3208,North Dakota CD 8. South Central,20,117,4.2,63.8,6
+3209,North Dakota CD 9. Southeast,20.72222222,119,4.9,64.4,6
+3301,Ohio CD 1. Northwest,22,101,2.4,69.2,6
+3302,Ohio CD 2. North Central,21.55555556,98,2,68.8,6
+3303,Ohio CD 3. Northeast,20.27777778,97,2.1,66.4,6
+3304,Ohio CD 4. West Central,21.83333333,96,2,69.3,6
+3305,Ohio CD 5. Central,21.88888889,95,1.9,69.5,6
+3306,Ohio CD 6. Central Hills,20.66666667,93,1.6,67.6,6
+3307,Ohio CD 7. Northeast Hills,20.44444444,88,1.5,67.3,6
+3308,Ohio CD 8. Southwest,22.11111111,92,1.4,70.4,6
+3309,Ohio CD 9. South Central,21.44444444,63,0.3,70.3,6
+3310,Ohio CD 10. Southeast,20.77777778,59,0.3,69.1,6
+3401,Oklahoma CD 1. Panhandle,25.61111111,112,3.6,74.5,6
+3402,Oklahoma CD 2. North Central,26.44444444,105,2.9,76.7,6
+3403,Oklahoma CD 3. Northeast,25.72222222,98,2,76.3,6
+3404,Oklahoma CD 4. West Central,26.33333333,105,2.5,76.9,6
+3405,Oklahoma CD 5. Central,26,98,1.4,77.4,6
+3406,Oklahoma CD 6. East Central,25.83333333,94,1.5,77,6
+3407,Oklahoma CD 7. Southwest,26.61111111,89,1.3,78.6,6
+3408,Oklahoma CD 8. South Central,26,74,0.4,78.4,6
+3409,Oklahoma CD 9. Southeast,25.33333333,88,1,76.6,6
+3501,Oregon CD 1. Coastal Area,14.66666667,102,1.7,56.7,6
+3502,Oregon CD 2. Willamette Valley,15.44444444,83,0.8,59,6
+3503,Oregon CD 3. Southwestern Valleys,15.27777778,89,1.4,58.1,6
+3504,Oregon CD 4. Northern Cascades,11.94444444,71,0.1,53.4,6
+3505,Oregon CD 5. High Plateau,12.38888889,85,1.1,53.2,6
+3506,Oregon CD 6. North Central,16.22222222,78,0.6,60.6,6
+3507,Oregon CD 7. South Central,14,78,0.9,56.3,6
+3508,Oregon CD 8. Northeast,12.77777778,61,-0.2,55.2,6
+3509,Oregon CD 9. Southeast,16,59,-0.2,61,6
+3601,Pennsylvania CD 1. Pocono Mountains,18.5,89,1.4,63.9,6
+3602,Pennsylvania CD 2. East Central Mountains,20,98,1.7,66.3,6
+3603,Pennsylvania CD 3. Southeastern Piedmont,21.77777778,108,2.2,69,6
+3604,Pennsylvania CD 4. Lower Susquehanna,21.66666667,106,2.2,68.8,6
+3605,Pennsylvania CD 5. Middle Susquehanna,20.11111111,91,1.2,67,6
+3606,Pennsylvania CD 6. Upper Susquehanna,18.16666667,81,1.1,63.6,6
+3607,Pennsylvania CD 7. Central Mountains,18.61111111,70,0.5,65,6
+3608,Pennsylvania CD 8. South Central Mountains,20.11111111,92,1.4,66.8,6
+3609,Pennsylvania CD 9. Southwest Plateau,19.61111111,67,0.4,66.9,6
+3610,Pennsylvania CD 10. Northwest Plateau,18.55555556,90,1.3,64.1,6
+3701,Rhode Island CD 1. Rhode Island (Entire State),20.11111111,119,3.5,64.7,6
+3801,South Carolina CD 1. Mountain,22.5,44,-0.5,73,6
+3802,South Carolina CD 2. Northwest,23.88888889,38,-0.6,75.6,6
+3803,South Carolina CD 3. North Central,24,31,-1,76.2,6
+3804,South Carolina CD 4. Northeast,24.38888889,27,-1.3,77.2,6
+3805,South Carolina CD 5. West Central,24.72222222,32,-0.9,77.4,6
+3806,South Carolina CD 6. Central,24.83333333,31,-0.9,77.6,6
+3807,South Carolina CD 7. Southern,25.33333333,46,-0.3,77.9,6
+3901,South Dakota CD 1. Northwest,19.94444444,112,4,63.9,6
+3902,South Dakota CD 2. North Central,20.77777778,116,4.2,65.2,6
+3903,South Dakota CD 3. Northeast,21.27777778,119,5.2,65.1,6
+3904,South Dakota CD 4. Black Hills,18.22222222,115,4.5,60.3,6
+3905,South Dakota CD 5. Southwest,21.05555556,112,4.1,65.8,6
+3906,South Dakota CD 6. Central,21.55555556,113,3.9,66.9,6
+3907,South Dakota CD 7. East Central,21.61111111,120,4.7,66.2,6
+3908,South Dakota CD 8. South Central,22.22222222,115,4.9,67.1,6
+3909,South Dakota CD 9. Southeast,23.11111111,120,5.4,68.2,6
+4001,Tennessee CD 1. Eastern,21.94444444,41,-0.8,72.3,6
+4002,Tennessee CD 2. Cumberland Plateau,21.94444444,52,-0.3,71.8,6
+4003,Tennessee CD 3. Middle,23.55555556,61,0.1,74.3,6
+4004,Tennessee CD 4. Western,24.5,59,-0.1,76.2,6
+4101,Texas CD 1. High Plains,25.94444444,109,3.1,75.6,6
+4102,Texas CD 2. Low Rolling Plains,27,92,1.2,79.4,6
+4103,Texas CD 3. North Central,26.66666667,66,0,80,6
+4104,Texas CD 4. East Texas,26.5,67,0,79.7,6
+4105,Texas CD 5. Trans Pecos,27.55555556,102,2.6,79,6
+4106,Texas CD 6. Edwards Plateau,27,76,0.7,79.9,6
+4107,Texas CD 7. South Central,27.55555556,58,0.2,81.4,6
+4108,Texas CD 8. Upper Coast,27.61111111,92,0.9,80.8,6
+4109,Texas CD 9. South,28.33333333,40,-0.5,83.5,6
+4110,Texas CD 10. Lower Valley,28.72222222,58,0.1,83.6,6
+4201,Utah CD 1. Western,19.22222222,71,0.8,65.8,6
+4202,Utah CD 2. Dixie,24.61111111,90,2.4,73.9,6
+4203,Utah CD 3. North Central,17.83333333,72,0.4,63.7,6
+4204,Utah CD 4. South Central,17.05555556,82,1.5,61.2,6
+4205,Utah CD 5. Northern Mountains,12.83333333,70,0.3,54.8,6
+4206,Utah CD 6. Uinta Basin,18.44444444,86,1.8,63.4,6
+4207,Utah CD 7. Southeast,22,92,2.3,69.3,6
+4301,Vermont CD 1. Northeastern,16.38888889,95,1.2,60.3,6
+4302,Vermont CD 2. Western,17.66666667,108,1.9,61.9,6
+4303,Vermont CD 3. Southeastern,17.55555556,113,2.3,61.3,6
+4401,Virginia CD 1. Tidewater,23.61111111,81,0.9,73.6,6
+4402,Virginia CD 2. Eastern Piedmont,23,76,0.7,72.7,6
+4403,Virginia CD 3. Western Piedmont,22.11111111,61,0.3,71.5,6
+4404,Virginia CD 4. Northern,22,91,1.6,70,6
+4405,Virginia CD 5. Central Mountain,20.16666667,58,0,68.3,6
+4406,Virginia CD 6. Southwestern Mountain,19.5,44,-0.7,67.8,6
+4501,Washington CD 1. West Olympic Coast,13.27777778,87,1.1,54.8,6
+4502,Washington CD 2. North East Olympic San Juan,14.55555556,84,0.9,57.3,6
+4503,Washington CD 3. Puget Sound Lowlands,15.11111111,81,0.6,58.6,6
+4504,Washington CD 4. East Olympic Cascade Foothills,13.5,80,0.4,55.9,6
+4505,Washington CD 5. Cascade Mountains West,10.77777778,69,0,51.4,6
+4506,Washington CD 6. East Slope Cascades,11.88888889,74,0.1,53.3,6
+4507,Washington CD 7. Okanogan Big Bend,16.05555556,57,-0.5,61.4,6
+4508,Washington CD 8. Central Basin,18.33333333,82,0.7,64.3,6
+4509,Washington CD 9. Northeastern,13.77777778,56,-0.4,57.2,6
+4510,Washington CD 10. Palouse Blue Mountains,15.61111111,63,0.1,60,6
+4601,West Virginia CD 1. Northwestern,20.77777778,60,0.2,69.2,6
+4602,West Virginia CD 2. North Central,20.61111111,60,0.3,68.8,6
+4603,West Virginia CD 3. Southwestern,21.44444444,54,-0.2,70.8,6
+4604,West Virginia CD 4. Central,18.27777778,54,-0.1,65,6
+4605,West Virginia CD 5. Southern,19.44444444,37,-1,68,6
+4606,West Virginia CD 6. Northeastern,20.55555556,72,0.7,68.3,6
+4701,Wisconsin CD 1. Northwest,18.66666667,109,3,62.6,6
+4702,Wisconsin CD 2. North Central,17.88888889,96,2.3,61.9,6
+4703,Wisconsin CD 3. Northeast,17.88888889,100,2.2,62,6
+4704,Wisconsin CD 4. West Central,20.27777778,106,2.8,65.7,6
+4705,Wisconsin CD 5. Central,19.77777778,99,2.4,65.2,6
+4706,Wisconsin CD 6. East Central,19.16666667,107,2.6,63.9,6
+4707,Wisconsin CD 7. Southwest,20.55555556,99,2.1,66.9,6
+4708,Wisconsin CD 8. South Central,20.66666667,103,2.5,66.7,6
+4709,Wisconsin CD 9. Southeast,20.16666667,102,2.2,66.1,6
+4801,Wyoming CD 1. Yellowstone Drainage,10.38888889,74,0.4,50.3,6
+4802,Wyoming CD 2. Snake Drainage,9.555555556,49,-0.8,50,6
+4803,Wyoming CD 3. Green and Bear Drainage,13.05555556,69,0.2,55.3,6
+4804,Wyoming CD 4. Big Horn,15.61111111,93,2,58.1,6
+4805,"Wyoming CD 5. Powder, Little Mo and Tongue Drainages",17.44444444,104,3.3,60.1,6
+4806,Wyoming CD 6. Belle Fourche Drainage,18.27777778,107,4,60.9,6
+4807,Wyoming CD 7. Cheyenne Niobrara Drainage,19.11111111,109,3.9,62.5,6
+4808,Wyoming CD 8. Lower Platte,18.05555556,107,3.8,60.7,6
+4809,Wyoming CD 9. Wind River,14.5,80,1.1,57,6
+4810,Wyoming CD 10. Upper Platte,14.94444444,87,1.8,57.1,6

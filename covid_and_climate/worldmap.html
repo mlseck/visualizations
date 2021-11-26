@@ -1,0 +1,426 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Covid & Climate</title>
+    <style>
+
+        body {
+            background-color: white;
+        }
+
+        svg {
+            border: 2px solid black;
+            background-color: white;
+        }
+
+        .selected {
+            fill: red;
+        }
+
+        .boundary {
+            fill: #aab1bb;
+            stroke: #ffffff;
+            stroke-width: 1px;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        div.tooltip {
+            position: absolute;
+            text-align: center;
+            width: 60px;
+            min-height: 28px;
+            padding: 8px 12px;
+            font: 12px sans-serif;
+            background: lightgray;
+            border: 0px;
+            border-radius: 8px;
+            pointer-events: none;
+        }
+
+    </style>
+
+</head>
+
+<body>
+<div id="map"></div>
+<h2>Percentage change of COVID cases vs Temperature</h2>
+<div>
+    <label for="monthddl">Choose a month:</label>
+    <select name="month" id="monthddl" onChange='updateMonth()'>
+        <option value="1">January 2020</option>
+        <option value="2">February 2020</option>
+        <option value="3">March 2020</option>
+        <option value="4">April 2020</option>
+        <option value="5">May 2020</option>
+        <option value="6">June 2020</option>
+        <option value="7">July 2020</option>
+        <option value="8">August 2020</option>
+        <option value="9">September 2020</option>
+        <option value="10">October 2020</option>
+        <option value="11">November 2020</option>
+        <option value="12">December 2020</option>
+    </select>
+</div>
+
+<svg width="962" height="600">
+    <g id="mapLayer"></g>
+    <g id="casesLayer"></g>
+</svg>
+<div>
+    <h2>Légende</h2>
+    <svg width="150" height="100">
+        <g id="legendLayer"></g>
+    </svg>
+</div>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://d3js.org/topojson.v1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/lodash@4.17.15/lodash.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tinycolor/1.4.1/tinycolor.js"></script>
+<script>
+
+    function covidMap() {
+        d3.select("#mapLayer").selectAll('*').remove();
+        d3.select("#casesLayer").selectAll('*').remove();
+        var month = document.getElementById("monthddl").value;
+
+        var width = 962,
+            rotated = 90,
+            height = 502;
+
+        //countries which have states, needed to toggle visibility
+        //for USA/ etc. either show countries or states, not both
+        var usa, canada;
+        var states; //track states
+        //track where mouse was clicked
+        var initX;
+        //track scale only rotate when s === 1
+        var s = 1;
+        var mouseClicked = false;
+
+        var projection = d3.geo.mercator()
+            .scale(153)
+            .translate([width / 2, height / 1.5])
+
+
+        var svg = d3.select("#mapLayer").append("svg")
+            .attr("width", width)
+            .attr("height", height)
+            //track where user clicked down
+            .on("mousedown", function () {
+                d3.event.preventDefault();
+                //only if scale === 1
+                if (s !== 1) return;
+                initX = d3.mouse(this)[0];
+                mouseClicked = true;
+            })
+            .on("mouseup", function () {
+                if (s !== 1) return;
+                rotated = rotated + ((d3.mouse(this)[0] - initX) * 360 / (s * width));
+                mouseClicked = false;
+            });
+
+
+        var path = d3.geo.path()
+            .projection(projection);
+
+        var tooltip = d3.select("#map").append("div")
+            .attr("class", "tooltip")
+            .style("opacity", 0);
+
+        //need this for correct panning
+        var g = svg.append("g");
+
+        d3.json("https://raw.githubusercontent.com/mlseck/datasets/main/weather.json", function (error, weather) {
+            //Get all temperatures from weather dataset
+            let sampleMap = weather.map(item => {
+                return Number(item.temperature);
+            });
+            //Set domain of colorScale for the temperature to the sorted list of temperatures
+            let domain = selectDivisionNumber(sampleMap).sort();
+            var colorScale = d3.scale.linear()
+                .domain(domain)
+                .range(["#67a8ce", "#bfe2f9", "#fefefe", "#fedec9", "#ef8d69"]);
+
+            d3.json("https://raw.githubusercontent.com/mlseck/datasets/main/combined2.json", function (error, world) {
+                if (error) return console.error(error);
+
+                countries = topojson.feature(world, world.objects.countries)
+                all_states = topojson.feature(world, world.objects.states)
+                monthly_weather = weather.filter(function (d) {
+                    return d.month == month
+                })
+
+                _(countries.features)
+                    .keyBy('id')
+                    .merge(_.keyBy(monthly_weather, 'alpha-3'))
+                    .values()
+                    .value();
+
+                g.append("g")
+                    .attr("class", "boundary")
+                    .selectAll("boundary")
+                    .data(countries.features)
+                    .enter().append("path")
+                    .attr("name", function (d) {
+                        return d.properties.name;
+                    })
+                    .attr("id", function (d) {
+                        return d.id;
+                    })
+                    .on('click', selected)
+                    .attr("d", path)
+                    .style('fill', function (d, i) {
+                        var tempRate = d.temperature;
+                        return tempRate ? colorScale(tempRate) : "#ccc";
+                    })
+                    .on('mousemove', function (d) {
+                        tooltip.transition()
+                            .duration(200)
+                            .style("opacity", .9);
+                        if (d.temperature != null) {
+                            tooltip.style("left", (d3.event.pageX) + "px")
+                                .style("top", (d3.event.pageY) + "px")
+                                .text(() => `${d.properties.name}: ${(d.temperature).round(2).toFixed(1)}°C`)
+                        } else {
+                            tooltip.style("left", (d3.event.pageX) + "px")
+                                .style("top", (d3.event.pageY) + "px")
+                                .text(() => `${d.properties.name}: N/A`)
+                        }
+
+                    })
+                    .on("mouseover", function (d) {
+                        d3.select(this)
+                            .style("fill", tinycolor(colorScale(d.temperature)).darken(15).toString())
+                            .style("cursor", "pointer");
+                    })
+                    .on("mouseout", function (d, i) {
+                        d3.select(this).style("fill", function () {
+                            var tempRate = d.temperature;
+                            return tempRate ? colorScale(tempRate) : "#ccc";
+                        });
+
+                        tooltip.transition()
+                            .duration(500)
+                            .style("opacity", 0);
+                    });
+
+                d3.json("https://raw.githubusercontent.com/mlseck/datasets/main/state_weather.json", function (error, us_weather) {
+                    monthly_state_weather = us_weather.filter(function (d) {
+                        return d.month == month
+                    })
+
+                    _(all_states.features)
+                        .keyBy('properties.name')
+                        .merge(_.keyBy(monthly_state_weather, 'state'))
+                        .values()
+                        .value();
+
+                    usa = d3.select('#USA');
+                    canada = d3.select('#CAN');
+
+
+                    //states
+                    g.append("g")
+                        .attr("class", "boundary")
+                        .selectAll("boundary")
+                        .data(all_states.features)
+                        .enter().append("path")
+                        .attr("name", function (d) {
+                            return d.properties.name;
+                        })
+                        .attr("id", function (d) {
+                            return d.id;
+                        })
+                        .on('click', selected)
+                        .attr("d", path)
+                        .style('fill', function (d, i) {
+                            var tempRate = d.temperature;
+                            return tempRate ? colorScale(tempRate) : "#ccc";
+                        })
+                        .on('mousemove', function (d) {
+                            tooltip.transition()
+                                .duration(200)
+                                .style("opacity", .9);
+
+                            if (d.temperature != null) {
+                                tooltip.style("left", (d3.event.pageX) + "px")
+                                    .style("top", (d3.event.pageY) + "px")
+                                    .text(() => `${d.properties.name}: ${(d.temperature).round(2).toFixed(1)}°C`)
+                            } else {
+                                tooltip.style("left", (d3.event.pageX) + "px")
+                                    .style("top", (d3.event.pageY) + "px")
+                                    .text(() => `${d.properties.name}: N/A`)
+                            }
+                        })
+                        .on("mouseover", function (d) {
+                            d3.select(this)
+                                .style("fill", tinycolor(colorScale(d.temperature)).darken(15).toString())
+                                .style("cursor", "pointer");
+
+                        })
+                        .on("mouseout", function (d, i) {
+                            d3.select(this).style("fill", function () {
+                                var tempRate = d.temperature;
+                                return tempRate ? colorScale(tempRate) : "#ccc";
+                            });
+
+                            tooltip.transition()
+                                .duration(500)
+                                .style("opacity", 0);
+                        });
+
+                    states = d3.selectAll('.state');
+
+                    //create a new SVG in legend layer
+                    const legend = d3.select("#legendLayer").append('svg')
+                        .attr('class', 'legend')
+                        .attr('width', 148)
+                        .attr('height', 148)
+                        .selectAll('g')
+                        .data(colorScale.domain().slice().reverse())
+                        .enter().append('g')
+                        .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+                    legend.append("rect")
+                        .attr("width", 18)
+                        .attr("height", 18)
+                        .style("fill", colorScale);
+
+                    legend.append("text")
+                        .attr("x", 24)
+                        .attr("y", 9)
+                        .attr("dy", ".35em")
+                        .text(function(d) { return `${(d).round(2)}°C`});
+                });
+
+
+                d3.json("https://raw.githubusercontent.com/mlseck/datasets/main/covid.json", function (error, covid_data) {
+                    covid_data = covid_data.filter(function (d) {
+                        return d.month == month
+                    })
+                    _(countries.features)
+                        .keyBy('id')
+                        .merge(_.keyBy(covid_data, 'countryterritoryCode'))
+                        .values()
+                        .value();
+
+                    d3.select("#casesLayer").selectAll(".dots")
+                        .data(countries.features)
+                        .enter()
+                        .append("circle")
+                        .attr("r", function (d) {
+                            if (d.rise == null) {
+                                return 0;
+                            }
+                            if (Math.abs(d.rise) > 300) {
+                                return Math.sqrt(300);
+                            }
+                            return Math.abs(Math.sqrt(parseInt(d.rise)));
+                        })
+                        .style('fill', function (d) {
+                            if (d.rise > 0) {
+                                return "#9e372c";
+                            }
+                            return "#7ebc89";
+                        })
+                        .attr("transform", function (d) {
+                            var p = projection(d3.geo.centroid(d)); //<-- centroid is the center of the path, projection maps it to pixel positions
+                            return "translate(" + p + ")";
+                        })
+                        .style("opacity", 0.8);
+
+
+                });
+
+                d3.json("https://raw.githubusercontent.com/mlseck/datasets/main/states_covid.json", function (error, covid_data) {
+                    covid_data = covid_data.filter(function (d) {
+                        return d.month == month
+                    })
+                    _(all_states.features)
+                        .keyBy('properties.name')
+                        .merge(_.keyBy(covid_data, 'state'))
+                        .values()
+                        .value();
+
+                    d3.select("#casesLayer").selectAll(".dots")
+                        .data(all_states.features)
+                        .enter()
+                        .append("circle")
+                        .attr("r", function (d) {
+                            if (d.rise == null) {
+                                return 0;
+                            }
+                            if (Math.abs(d.rise) > 300) {
+                                return Math.sqrt(300);
+                            }
+                            return Math.abs(Math.sqrt(parseInt(d.rise)));
+                        })
+                        .style('fill', function (d) {
+                            if (d.rise > 0) {
+                                return "#9e372c";
+                            }
+                            return "#7ebc89";
+                        })
+                        .attr("transform", function (d) {
+                            var p = projection(d3.geo.centroid(d)); //<-- centroid is the center of the path, projection maps it to pixel positions
+                            return "translate(" + p + ")";
+                        })
+                        .style("opacity", 0.8);
+
+                });
+            });
+
+        });
+    }
+
+    covidMap();
+
+
+    function selected() {
+        d3.select('.selected').classed('selected', false);
+        d3.select(this).classed('selected', true);
+    }
+
+    function updateMonth() {
+        var month = document.getElementById("monthddl").value;
+        covidMap()
+    }
+
+
+    Number.prototype.round = function (decimals) {
+        return Number((Math.round(this + "e" + decimals) + "e-" + decimals));
+    };
+
+    function selectDivisionNumber(array) {
+        let arraySize = array.length,
+            halfArray = Math.round(arraySize / 2);
+        let newArr = [];
+        //Take first and last item and push them to the array
+        newArr.push(array[0])
+        newArr.push(array[arraySize - 1]);
+        //Don't mind the order, they will be sorted later.
+
+        //Divide the array in two
+        let firstHalf = array.slice(0, halfArray);
+        let firstHalfSelection = firstHalf[Math.round(firstHalf.length / 2)];
+        newArr.push(firstHalfSelection);
+
+        let secondHalf = array.slice(halfArray, arraySize);
+        let secondHalfSelection = secondHalf[Math.round(secondHalf.length / 2)];
+        newArr.push(secondHalfSelection);
+        return newArr;
+    }
+
+    function rotateMap(endX) {
+        projection.rotate([rotated + (endX - initX) * 360 / (s * width), 0, 0])
+        g.selectAll('path')       // re-project path data
+            .attr('d', path);
+    }
+
+</script>
+</body>
+</html>
